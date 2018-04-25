@@ -1,0 +1,23 @@
+# main links
+main:
+  - title: "Daily Life"
+    url: /tags/
+  - title: "Articles"
+    url: /tags/
+  - title: "Columns"
+    url: /tags/
+  - title: "In the media"
+    url: /tags/
+  - title: "中文网站"
+    url: /tags/
+sidebar:
+  - title: "About"
+    children:
+      - title: "About Mads Davidsen"
+        url: /mads-davidsen-麦斯大卫森/
+      - title: "Book a presentation"
+        url: /book/
+      - title: "Endorsements"
+        url: /endorsements/
+      - title: "Resume"
+        url: /cv/
