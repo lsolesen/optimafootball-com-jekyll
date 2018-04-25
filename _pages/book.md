@@ -6,7 +6,7 @@ header:
   image: http://www.playmakerbooking.dk/wp-content/uploads/2016/04/cover_mads_davidsen.jpg
 ---
 
-Mads Davidsen has in the past years done several presentations for companies, clubs, organizations and universities and you can book him for a presentation as well in Danish or English language. Mads has a great experience theoretically through his university- and football related educations and practically from the professional world in Denmark and China. Contact http://www.playmakerbooking.dk to hear more.
+Mads Davidsen has in the past years done several presentations for companies, clubs, organizations and universities and you can book him for a presentation as well in Danish or English language. Mads has a great experience theoretically through his university- and football related educations and practically from the professional world in Denmark and China. Contact [playmakerbooking.dk](http://www.playmakerbooking.dk/profiler/mads-davidsen/) to hear more.
 
 Mads' lectures covers the down below subjects and will be arranged and planned so it suits your organizations needs 100 %.
 
@@ -16,7 +16,7 @@ Mads' lectures covers the down below subjects and will be arranged and planned s
 - How to reach your goals & the effect of structured work
 - Modern football - how to build a team and how to structure a training / pre-season
  
-[Contact playerbooking.dk](http://www.playmakerbooking.dk/profiler/mads-davidsen/){: .btn .btn--warning .btn--large}
+[Contact playmakerbooking.dk](http://www.playmakerbooking.dk/profiler/mads-davidsen/){: .btn .btn--warning .btn--large}
 
 
 ## Endorsements
