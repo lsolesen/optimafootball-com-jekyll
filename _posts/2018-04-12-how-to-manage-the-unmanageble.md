@@ -1,8 +1,6 @@
 ---
 title: How to manage to unmanageable?
-date: '2018-04-12T00:00:00+02:00'
-category:
-  - Columns
+category: Columns
 ---
 Over the recent years, I have been hired by business groups, companies and for different events to do a speech on my 6 years operating in China. Not specifically about football necessarily, but on leadership and management in a different culture and country.
 
