@@ -64,7 +64,7 @@ analytics:
 # Site Author
 author:
   name             : "Mads Davidsen"
-  avatar           : "https://pbs.twimg.com/profile_images/882833444555902977/hJkESDHO_400x400.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/authors/mads-davidsen.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "UEFA Pro Football Coach | Technical Director at Shanghai SIPG F.C. (China) | Author of With Great Talent Comes Great Responsibility | Key note speaker"
   location         :
   email            :

@@ -3,7 +3,7 @@ permalink: /cv/
 title: "Mads Davidsen - Resume"
 excerpt: "UEFA Pro Football Coach - Technical Director at Shanghai SIPG F.C. (China) - Author of With Great Talent Comes Great Responsibility - Key note speaker"
 header:
-  overlay_image: https://madsdavidsen.com/sites/madsdavidsen.com/files/IMG_5375.JPG
+  overlay_image: /assets/images/mads-davidsen.jpg
 toc: true
 author_profile: true
 ---

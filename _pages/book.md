@@ -3,7 +3,7 @@ permalink: /book/
 title: "Book a presentation - via Playmaker"
 author_profile: true
 header:
-  image: http://www.playmakerbooking.dk/wp-content/uploads/2016/04/cover_mads_davidsen.jpg
+  image: /assets/images/md-ericson.jpg
 ---
 
 Mads Davidsen has in the past years done several presentations for companies, clubs, organizations and universities and you can book him for a presentation as well in Danish or English language. Mads has a great experience theoretically through his university- and football related educations and practically from the professional world in Denmark and China. Contact [playmakerbooking.dk](http://www.playmakerbooking.dk/profiler/mads-davidsen/) to hear more.
