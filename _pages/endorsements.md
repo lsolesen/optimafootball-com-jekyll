@@ -2,6 +2,7 @@
 permalink: /endorsements/
 title: "Endorsements"
 clases: wide
+author_profile: true
 ---
 
 **Legend Football Manager (at SL Benfica, AS Roma, Lazio SS, Manchester City, England national team, Shanghai SIPG F.C., etc.) - Sven Goran Eriksson:**
