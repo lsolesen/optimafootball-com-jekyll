@@ -13,5 +13,5 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Category", name: "category", widget: "list", options: ["Daily life", "Articles", "Columns", "In the media", "中文网站"]}
+      - {label: "Category", name: "category", widget: "select", options: ["Daily life", "Articles", "Columns", "In the media", "中文网站"]}
       - {label: "Body", name: "body", widget: "markdown"}
