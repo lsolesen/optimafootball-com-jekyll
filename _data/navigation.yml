@@ -1,17 +1,17 @@
 # main links
 main:
   - title: "Daily Life"
-    url: /tags/
+    url: /blog-tags/daily-life
   - title: "Articles"
-    url: /tags/
+    url: /blog-tags/articles
   - title: "Columns"
-    url: /tags/
+    url: /blog-tags/columns
   - title: "In the media"
-    url: /tags/
+    url: /blog-tags/media
   - title: "中文网站"
-    url: /tags/
+    url: /blog-tags/中文网站
 sidebar:
-  - title: "About"
+  - title: "Shortcuts"
     children:
       - title: "About Mads Davidsen"
         url: /mads-davidsen-麦斯大卫森/
