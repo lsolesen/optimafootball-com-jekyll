@@ -225,28 +225,6 @@ compress_html:
     envs: development
 
 
-# Collections
-collections:
-  places:
-    output: true
-    permalink: /steder/:path/
-  timelines:
-    output: true
-    permalink: /tidslinje/:path/
-  songs:
-    output: true
-    permalink: /:collection/:path/
-  faq:
-    output: true
-    permalink: /:collection/:path/
-  persons:
-    output: true
-    permalink: /:collection/:path/
-  yearbooks:
-    output: true
-    permalink: /aarsskrift/:path/
-
-
 # Defaults
 defaults:
   # _posts
@@ -257,86 +235,19 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      listen_time: false
-      video_time: false
       comments: true
       share: true
       related: true
-# _places
+  # _pages
   - scope:
       path: ""
-      type: places
+      type: pages
     values:
-      layout: collection-single
-      author_profile: true
-      listen_time: false
-      video_time: false
-      read_time: false
-      comments: true
-      share: true
-      related: true
-# _persons
-  - scope:
-      path: ""
-      type: persons
-    values:
-      layout: collection-single
+      layout: single
       author_profile: false
       read_time: false
-      comments: true
+      comments: false
       share: true
       related: true
-      toc: true
-# _timelines
-  - scope:
-      path: ""
-      type: timelines
-    values:
-      layout: collection-single
-      author_profile: true
-      listen_time: false
-      video_time: false
-      read_time: false
-      comments: true
-      share: true
-      related: true
-# _songs
-  - scope:
-      path: ""
-      type: songs
-    values:
-      layout: collection-single
-      author_profile: true
-      listen_time: false
-      video_time: false
-      read_time: false
-      comments: true
-      share: true
-      related: true
-# _faq
-  - scope:
-      path: ""
-      type: faq
-    values:
-      layout: collection-single
-      author_profile: true
-      video_time: false
-      listen_time: false
-      read_time: true
-      comments: true
-      share: true
-      related: true
-# _yearbooks
-  - scope:
-      path: ""
-      type: yearbooks
-    values:
-      layout: collection-single
-      author_profile: false
-      read_time: true
-      listen_time: false
-      video_time: false
-      comments: true
-      share: true
-      related: true
-      toc: true
+      sidebar:
+        nav: "sidebar"
