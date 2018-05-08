@@ -15,13 +15,10 @@ In the domestic league we lost the first round away vs. Henan, where all the tea
 
 Besides helping the 1. team; I'm also working with the Development Squad (U23) and here I can observe and measure a very nice progress. Not only in terms of the results, but through a high performance environment slowly being build up:
 
-\- We have a bigger staff around the squad
-
-\- We are now filming and analyzing all our training sessions
-
-\- We are getting similar stats / data from our games as the 1. team gets from Prozone/Amisco
-
-\- We have a more structured individual development plan / training structure (a software to track development)
+- We have a bigger staff around the squad
+- We are now filming and analyzing all our training sessions
+- We are getting similar stats / data from our games as the 1. team gets from Prozone/Amisco
+- We have a more structured individual development plan / training structure (a software to track development)
 
 So the players are basically under the same conditions as a 1. team player, which is a very strong environment for a young player in China.
 
@@ -31,4 +28,4 @@ So busy times in Shanghai, but still some very interesting tasks here and I real
 
 You can read about our football schools down below (in English):
 
-[http://www.shanghaidaily.com/sports/soccer/SIPG-steps-up-hunt-for-youth-talent/shdaily.shtml](http://www.shanghaidaily.com/sports/soccer/SIPG-steps-up-hunt-for-youth-talent/shdaily.shtml​)
+[http://www.shanghaidaily.com/sports/soccer/SIPG-steps-up-hunt-for-youth-talent/shdaily.shtml](http://www.shanghaidaily.com/sports/soccer/SIPG-steps-up-hunt-for-youth-talent/shdaily.shtml)
