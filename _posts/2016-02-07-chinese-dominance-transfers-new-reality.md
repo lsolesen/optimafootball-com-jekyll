@@ -15,9 +15,9 @@ As the only Dane working professionally in Chinese football, I've been interview
 
 A few of the articles / radio shows can be found below (in Danish):
 
-[http://sport.tv2.dk/fodbold/2016-02-04-kinesisk-fodbold-revolutionerer-vi-vil-gerne-koebe-en-klub-i-danmark-hvilken-skal](http://sport.tv2.dk/fodbold/2016-02-04-kinesisk-fodbold-revolutionerer-vi-vil-gerne-koebe-en-klub-i-danmark-hvilken-skal​)
+[http://sport.tv2.dk/fodbold/2016-02-04-kinesisk-fodbold-revolutionerer-vi-vil-gerne-koebe-en-klub-i-danmark-hvilken-skal](http://sport.tv2.dk/fodbold/2016-02-04-kinesisk-fodbold-revolutionerer-vi-vil-gerne-koebe-en-klub-i-danmark-hvilken-skal)
 
-[http://www.dr.dk/radio/ondemand/p1/p1-morgen-2016-02-06#!/](http://www.dr.dk/radio/ondemand/p1/p1-morgen-2016-02-06#!/​)
+[http://www.dr.dk/radio/ondemand/p1/p1-morgen-2016-02-06#!/](http://www.dr.dk/radio/ondemand/p1/p1-morgen-2016-02-06#!/)
 
 <http://politiken.dk/sport/fodbold/ECE3047475/de-koeber-pludselig-store-fodboldstjerner-i-kina/>
 
