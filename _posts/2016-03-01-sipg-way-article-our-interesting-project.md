@@ -11,4 +11,4 @@ As part of my tasks here at Shanghai SIPG F.C., I'm trying to develop our club p
 
 Down below is an article which tells some insights going on at our club as we speak (in English):
 
-[http://theworldgame.sbs.com.au/blog/2016/02/23/welcome-victorys-glitzy-acl-opponents-shanghai-sipg](http://theworldgame.sbs.com.au/blog/2016/02/23/welcome-victorys-glitzy-acl-opponents-shanghai-sipg​)
+[http://theworldgame.sbs.com.au/blog/2016/02/23/welcome-victorys-glitzy-acl-opponents-shanghai-sipg](http://theworldgame.sbs.com.au/blog/2016/02/23/welcome-victorys-glitzy-acl-opponents-shanghai-sipg)
