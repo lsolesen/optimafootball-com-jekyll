@@ -1,11 +1,14 @@
 language: ruby
 cache: bundler
+branches:
+  only:
+  - gh-pages
+  - /.*/
 rvm:
   - 2.2.7
   - 2.3.4
   - 2.4.1
 matrix:
-  include:
   allow_failures:
     - rvm: 2.3.4
     - rvm: 2.4.1
