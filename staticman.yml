@@ -17,7 +17,7 @@ comments:
   # When allowedOrigins is defined, only requests sent from one of the domains
   # listed will be accepted. The origin is sent as part as the `options` object
   # (e.g. <input name="options[origin]" value="http://yourdomain.com/post1")
-  allowedOrigins: ["madsdavidsen.com", "madsdavidsen-com.netlify.com"]
+  allowedOrigins: ["madsdavidsen.com"]
 
   # (*) REQUIRED
   #
@@ -61,24 +61,24 @@ comments:
   #   type: "comment"
 
   # Name of the site. Used in notification emails.
-  # name: "Your Site"
+  name: "madsdavidsen.com"
 
   # Notification settings. When enabled, users can choose to receive notifications
   # via email when someone adds a reply or a new comment. This requires an account
   # with Mailgun, which you can get for free at http://mailgun.com.
   # notifications:
     # Enable notifications
-    # enabled: true
+    enabled: true
 
     # (!) ENCRYPTED
     #
     # Mailgun API key
-    # apiKey: ""
+    apiKey: "I815u5Jt788uQBlahG1i+mnhdVZJhg9a+acvMdafi1ScdlRzs+O+MEMLkAqUn4JchHuotf5Ld7iF63qfeUIqAL/cy6qW5vjEOsTXN//O2DqbaEfGuCcEMf0o8OSpZHdtq8PMKiPzkFmXVMtIU4Mk8SrxB0vR5JztLF+1091q+vs="
 
     # (!) ENCRYPTED
     #
     # Mailgun domain (encrypted)
-    # domain: ""
+    domain: "U1sH29hHNB79UyoeTnO3evckI1jij7y+NsxXwi2Duw/3BH46DErbvjPO1RB+bqecxBQmMSSBsZon3e6is1yfsjN5rFwo1kUm15mbETFvtd7iTfoPIVrA4y2yWG+UDjS66ySPCQKgtV50BEwb1WRhiqARNXUyDVOAE5fexJNk3SI="
 
   # (*) REQUIRED
   #
