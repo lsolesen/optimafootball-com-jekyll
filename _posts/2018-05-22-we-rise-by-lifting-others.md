@@ -9,6 +9,8 @@ I always aim to give something 'extra and unique' to the companies and people hi
 
 Feedback is crucial to keep improving and learning through failing - and I always welcome their view on me and my performance. At my latest speech, the feedback was mostly positive - a real privilege if I managed to inspire others.
 
-**Professor & Director Sascha L. Schmidt - Center of Sports Management at WHU: **"Mads has been among the most inspiring speakers at SPOAC. His speeches are top notch - qualitatively as well as energetically. It is always a real pleasure to listen to him“.
+**Professor & Director Sascha L. Schmidt - Center of Sports Management at WHU:**
+
+**"**Mads has been among the most inspiring speakers at SPOAC. His speeches are top notch - qualitatively as well as energetically. It is always a real pleasure to listen to him“.
 
 As American Robert G. Ingersoll said: "_We rise by lifting others_".
