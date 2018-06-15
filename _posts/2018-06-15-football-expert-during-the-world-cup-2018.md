@@ -9,4 +9,4 @@ I have agreed with Danish media, _Politiken_, to write 5 columns as their footba
 
 My first column is out and you can find it here (in Danish):
 
-https://politiken.dk/sport/art6582607/Det-store-sp%C3%B8rgsm%C3%A5l-er-om-VM-deltagerne-vil-opn%C3%A5-eller-undg%C3%A5
+<https://politiken.dk/sport/art6582607/Det-store-sp%C3%B8rgsm%C3%A5l-er-om-VM-deltagerne-vil-opn%C3%A5-eller-undg%C3%A5>
