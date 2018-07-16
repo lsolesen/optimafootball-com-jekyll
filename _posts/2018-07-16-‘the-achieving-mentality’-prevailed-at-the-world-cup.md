@@ -44,6 +44,12 @@ In some headlines, I will briefly outline some World Cup trends and key focus po
 
 \- The effects of the best club coaches; Pep Guardiola, Maurizio Sarri, Jurgen Klopp and Maurico Pochettino, etc. – especially in the off-the-ball pressure phases where the teams worked more aggressively pressing forward compared to previously more low organized in passive defensive blocks
 
+\- Few 3-backline teams compared to be tendency in the top 5 leagues in the recent two seasons
+
+\- Win your xG (expected goals) and higher the chance to also win the game: In 48 games of 64 the xG won as well as won the game in the end
+
+\- Almost 33% more goals from possession phases (passes and play through one line at a time) compared to direct play (early direct/long ball) 
+
 \- Goals from open play are still created primarily through combination play (wall pass, etc.) in the central areas of the pitch (zone 14) and a ‘deep pass’ was the main origin from goals scored in open play (21 goals created after a deep pass of the 96 ‘open play’ goals). 
 
 \- Very few goals after wide (high) crosses; 6 of 96 open play goals and a high conversion rate as well, so not an entirely efficient last 3rd strategy 
