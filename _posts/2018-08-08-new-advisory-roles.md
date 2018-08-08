@@ -3,7 +3,7 @@ title: New Advisory-roles
 category: Daily life
 language: en
 ---
-I have in the recent period had several talks and offers from interesting projects around the World, and I'm pleased to announce two new advisory-roles.
+I have in the recent period had several talks and offers from interesting projects around the World, and I'm pleased to announce two new advisory-roles. Both roles are not to be considered as a full time job, but compared being a board member in a company in the World of business, for example.
 
 Firstly, I have joined a very interesting project in Africa at the NGO "El Cambio Academy" who is trying to develop football and life for kids in Uganda. I will join the academy as a Technical Advisor and help mainly with their recruitment and environment strategies.
 
