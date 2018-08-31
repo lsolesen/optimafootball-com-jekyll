@@ -1,8 +1,14 @@
 ---
+layout: single
+permalink: /mads-davidsen-麦斯大卫森/
 title: Mads Davidsen - 麦斯大卫森
 excerpt: >-
   UEFA Pro Football Coach - Technical Director at Shanghai SIPG F.C. (China) -
   Author of With Great Talent Comes Great Responsibility - Key note speaker
+header:
+  overlay_image: /assets/images/mads-davidsen.jpg
+classes: wide
+author_profile: true
 ---
 ## PRESENT
 
