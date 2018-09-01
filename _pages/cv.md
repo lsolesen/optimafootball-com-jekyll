@@ -1,13 +1,8 @@
 ---
-permalink: /cv/
 title: Mads Davidsen - Resume
 excerpt: >-
   UEFA Pro Football Coach - Technical Director at Shanghai SIPG F.C. (China) -
   Author of With Great Talent Comes Great Responsibility - Key note speaker
-header:
-  overlay_image: /assets/images/mads-davidsen.jpg
-toc: true
-author_profile: true
 ---
 ## Football Career:
 
@@ -35,8 +30,7 @@ author_profile: true
 
 ## Academic resume:
 
-* 2000-2011: Student, freelance journalist and communication trainee 
-* 2007-2012: Co-owner of www.sportsviden.dk
+* 2000-2011: Part-time student, freelance writer and communication trainee 
 
 ## Academic career:
 
@@ -47,4 +41,4 @@ author_profile: true
 
 ## Marital status:
 
-* 2017: Lives in Shanghai, China, with my wife, Katrine
+* 2018: Lives in Shanghai, China, with my wife, Katrine
