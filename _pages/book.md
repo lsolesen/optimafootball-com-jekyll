@@ -1,5 +1,7 @@
 ---
 title: Book a presentation - via Playmaker
+permalink: /book/
+author_profile: 'true'
 excerpt: >-
   UEFA Pro Football Coach - Technical Director at Shanghai SIPG F.C. (China) -
   Author of With Great Talent Comes Great Responsibility - Key note speaker
