@@ -5,6 +5,10 @@ backend:
 
 media_folder: "assets/images/uploads" # Media files will be stored in the repo under images/uploads
 
+slug:
+  encoding: "ascii"
+  clean_accents: true
+
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
