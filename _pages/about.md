@@ -1,27 +1,21 @@
 ---
-layout: single
-permalink: /mads-davidsen-麦斯大卫森/
 title: Mads Davidsen - 麦斯大卫森
 excerpt: >-
   UEFA Pro Football Coach - Technical Director at Shanghai SIPG F.C. (China) -
   Author of With Great Talent Comes Great Responsibility - Key note speaker
-header:
-  overlay_image: /assets/images/mads-davidsen.jpg
-classes: wide
-author_profile: true
 ---
 ## PRESENT
 
 * Age: 35
 * Technical Director at Shanghai SIPG F.C. (China)
 * UEFA PRO-Licensed Football Coach
-* Technical Advisor at Tonsser (international football APP)
-* Technical Advisor at El Cambio Academy (Uganda)
-* Technical Advisor at KMD (use of data-project in football)
+* Technical Advisor at Tonsser (international youth football APP)
+* Technical Advisor at El Cambio Academy (youth academy in Uganda)
+* Technical Advisor at KMD (international 'data-project' in football)
 * University Master in Journalism & History from Roskilde University (Denmark)
 * Mini MBA in Management and Leadership from Probana (Beijing University)
 * Author of the book "Når talent forpligter" (English tittle: "With Great Talent Comes Great Responsibility")
-* Key note speaker at Playmaker (www.playmakerbooking.dk)
+* Key note speaker (www.playmakerbooking.dk)
 
 ## PAST
 
