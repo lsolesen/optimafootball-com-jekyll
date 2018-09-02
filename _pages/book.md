@@ -3,8 +3,6 @@ title: Book a presentation - via Playmaker
 excerpt: >-
   UEFA Pro Football Coach - Technical Director at Shanghai SIPG F.C. (China) -
   Author of With Great Talent Comes Great Responsibility - Key note speaker
-permalink: /book/
-author_profile: true
 header:
   image: /assets/images/md-ericson.jpg
 ---
