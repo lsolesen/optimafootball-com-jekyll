@@ -8,7 +8,7 @@ header:
 ---
 Mads Davidsen has in the past years done presentations for companies, clubs, organisations and universities and you can book him for a presentation as well in Danish or English language. Mads has a great experience theoretically through his university- and football related educations and practically leadership wise from the professional world in Denmark and China.
 
-Mads' lectures covers the down below subjects and will be arranged and planned so it suits your organisations needs 100 %.
+Mads' lectures covers the down below subjects and will be arranged and planned so it suits your organisations needs 100%.
 
 \- **A talent development discussion across cultures, diversity and continents: “How to manage the unmanageable?” **
 
