@@ -3,6 +3,10 @@ title: Book a presentation - via Playmaker
 excerpt: >-
   UEFA Pro Football Coach - Technical Director at Shanghai SIPG F.C. (China) -
   Author of With Great Talent Comes Great Responsibility - Key note speaker
+permalink: /book/
+author_profile: true
+header:
+  image: /assets/images/md-ericson.jpg
 ---
 Mads Davidsen has in the past years done presentations for companies, clubs, organisations and universities and you can book him for a presentation as well in Danish or English language. Mads has a great experience theoretically through his university- and football related educations and practically leadership wise from the professional world in Denmark and China.
 
