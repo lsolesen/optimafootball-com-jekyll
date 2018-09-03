@@ -1,36 +1,33 @@
 ---
-title: Book a presentation - via Playmaker
+title: Book a presentation
 permalink: /book/
-author_profile: 'true'
 excerpt: >-
   UEFA Pro Football Coach - Technical Director at Shanghai SIPG F.C. (China) -
   Author of With Great Talent Comes Great Responsibility - Key note speaker
 header:
   image: /assets/images/md-ericson.jpg
+author_profile: 'true'
 ---
 Mads Davidsen has in the past years done presentations for companies, clubs, organisations and universities and you can book him for a presentation as well in Danish or English language. Mads has a great experience theoretically through his university- and football related educations and practically leadership wise from the professional world in Denmark and China.
 
 Mads' lectures covers the down below subjects and will be arranged and planned so it suits your organisations needs 100%.
 
-\- **A talent development discussion across cultures, diversity and continents: “How to manage the unmanageable?” **
+**\- A talent development discussion across cultures, diversity and continents: “How to manage the unmanageable?” **
 
 **\- Organisational succession planning: “How to build and implement a strategy to fulfil your ambitions over time?” **
 
 **\- Football 2025: “What are the demands of the modern game and how can we plan and work towards it”? **
 
-**\- Motivation & feedback culture: “How do we lead other people”? Including empirical field study cases from my book ‘With great talent comes great responsibility’   **
+**\- Motivation & feedback culture: “How do we lead other people”? Including empirical field study cases from my book ‘With great talent comes great responsibility**
 
 [Contact playmakerbooking.dk](http://www.playmakerbooking.dk/profiler/mads-davidsen/){: .btn .btn--warning .btn--large}
 
-## 
-
-## Endorsements
+# **Endorsements**
 
 **Professor & Director of the Center of Sport and Management at WHU - Otto Beisheim School of Management, Sascha L. Schmidt**
 
 Mads has been among the most inspiring speakers at SPOAC. His speeches are top notch - qualitatively as well as energetically. It is always a real pleasure to listen to him.
 
-\
 **General Manager at the Danish Chamber of Commerce in China, Jakob B. Pedersen**
 
 > Mads Davidsen is a true insider and analyst of European-, Asian- and in particular Chinese football. He is a profound and articulated speaker who masters the art of speaking in an understandable language while touching upon complicated topics, such as motivational tactics, the science of modern football, cross cultural communication etc. Mads’ presentation of Chinese and Asian football is by no means just a mere insight into football itself, but also touches on broader topics relevant to recurrent business challenges in China. Worth high lightening was the heated Q&A session following his presentation of “Chinese vs. International talent development” and its reminiscent to the troubles experienced by the Danish business community in China, especially in relation to motivating and maintaining Chinese talent.
