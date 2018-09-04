@@ -28,6 +28,10 @@ Mads' lectures covers the down below subjects and will be arranged and planned s
 
 Mads has been among the most inspiring speakers at SPOAC. His speeches are top notch - qualitatively as well as energetically. It is always a real pleasure to listen to him.
 
+**CEO at Insightview.eu, Carsten Bonde Pedersen**
+
+Mads has given some very interesting lectures on coaching and developing of employees in China. These have been highly appreciated by Insightview.eu's clients from the financial sector in Europe and the United States. And furthermore; for those of us who also love football and everyone else, the lectures have been entertaining, but also a valuable experience that helped to understand the cultural gap between Europe and China.
+
 **General Manager at the Danish Chamber of Commerce in China, Jakob B. Pedersen**
 
 > Mads Davidsen is a true insider and analyst of European-, Asian- and in particular Chinese football. He is a profound and articulated speaker who masters the art of speaking in an understandable language while touching upon complicated topics, such as motivational tactics, the science of modern football, cross cultural communication etc. Mads’ presentation of Chinese and Asian football is by no means just a mere insight into football itself, but also touches on broader topics relevant to recurrent business challenges in China. Worth high lightening was the heated Q&A session following his presentation of “Chinese vs. International talent development” and its reminiscent to the troubles experienced by the Danish business community in China, especially in relation to motivating and maintaining Chinese talent.
