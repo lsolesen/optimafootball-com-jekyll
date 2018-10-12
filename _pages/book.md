@@ -12,15 +12,17 @@ Mads Davidsen has in the past years done presentations for companies, clubs, org
 
 Mads' lectures covers the down below subjects and will be arranged and planned so it suits your organisations needs 100%.
 
-**\- A talent development discussion across cultures, diversity and continents: “How to manage the unmanageable?” **
 
-**\- Organisational succession planning: “How to build and implement a strategy to fulfil your ambitions over time?” **
 
-**\- Football 2025: “What are the demands of the modern game and how can we plan and work towards it”? **
+_\- A talent development discussion across cultures, diversity and continents: “How to manage the unmanageable?” _
 
-**\- Motivation & feedback culture: “How do we lead other people”? Including empirical field study cases from my book ‘With great talent comes great responsibility**
+_\- Organisational succession planning: “How to build and implement a strategy to fulfil your ambitions over time?” _
 
-[Contact playmakerbooking.dk](http://www.playmakerbooking.dk/profiler/mads-davidsen/){: .btn .btn--warning .btn--large}
+_\- Football 2025: “What are the demands of the modern game and how can we plan and work towards it”? _
+
+_\- Motivation & feedback culture: “How do we lead other people”? Including empirical field study cases from my book ‘With great talent comes great responsibility_
+
+
 
 # **Endorsements**
 
