@@ -41,7 +41,7 @@ Moment: Same for all
 
  Speed: Different for all
 
-**Football: **
+**Football:**
 
 Position: Different for all
 
