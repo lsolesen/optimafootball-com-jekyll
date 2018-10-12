@@ -20,7 +20,7 @@ _\- Organisational succession planning: “How to build and implement a strategy
 
 _\- Strategies & Football by 2025: “What are the demands of the modern game and how can we plan and work towards it”? _
 
-_\- Motivation & feedback culture: “How do we lead other people”? Including empirical field study cases from my book ‘With great talent comes great responsibility_
+_\- Motivation & feedback culture: “How do we lead other people”? Including empirical field study cases from my book ‘With great talent comes great responsibility'_
 
 
 
