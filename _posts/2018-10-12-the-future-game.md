@@ -13,19 +13,31 @@ Recently I found the following posted online, a comparison between physical domi
 
 **100-meter sprint: **
 
-Position: Same for all Moment: Same for all Direction: Same for all Speed: Different for all
+Position: Same for all\
+ Moment: Same for all\
+ Direction: Same for all\
+ Speed: Different for all
 
 **50-meter swimming: **
 
-Position: Same for all Moment: Same for all Direction: Same for all Speed: Different for all
+Position: Same for all\
+ Moment: Same for all \
+Direction: Same for all \
+Speed: Different for all
 
 **1000-meter rowing:**
 
-Position: Same for all Moment: Same for all Direction: Same for all Speed: Different for all
+Position: Same for all \
+Moment: Same for all\
+ Direction: Same for all\
+ Speed: Different for all
 
 **Football: **
 
-Position: Different for all Moment: Different for all Direction: Different for all Speed: Different for all 
+Position: Different for all\
+ Moment: Different for all\
+ Direction: Different for all\
+ Speed: Different for all 
 
 \= Football is much more than just running, speed or power, while the other three sports mostly are about speed and power as is the construction of the competition.
 
