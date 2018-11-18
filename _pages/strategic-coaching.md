@@ -1,7 +1,7 @@
 ---
 title: Strategic Planning & Coaching
 permalink: /blog-tags/strategic-planning-coaching
-excerpt: Strategic Planning & Coaching
+excerpt: '- From the Board Room to the Training Ground'
 header:
   image: /assets/images/uploads/dscf6159_preview.jpg
   overlay_image: /assets/images/uploads/madschina.jpg
