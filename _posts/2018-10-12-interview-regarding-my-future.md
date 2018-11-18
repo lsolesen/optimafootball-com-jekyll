@@ -1,6 +1,6 @@
 ---
 title: Interview regarding my future
-category: Daily life
+category: Media
 language: da
 ---
 As I'm leaving Shanghai SIPG F.C. at the end of this year, I had a talk with Danish media _BT (sporten.dk)_ regarding my future.
