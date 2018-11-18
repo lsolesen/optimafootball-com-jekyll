@@ -13,9 +13,9 @@ My concept ‘Strategic Planning & Coaching’ is meant for the clubs to operate
 
 Especially bringing the club strategy all the way from the offices to the training pitch is a difficult step. These departments are often divided and normally the technical staff working with the team and players are not introduced to the main visions preventing a fully successful transparency in the club.
 
-“The sustainable model” is more or less turned upside down compared to ‘The short-term model’. As the club in the sustainable model will plan its vision, strategy, philosophy, methodology, recruitment strategy and Academy Master Plan before hiring the head coach.
+“The sustainable model” is more or less turned upside down compared to ‘The short-term model’. As the club in the sustainable model will plan its vision, strategy, philosophy, methodology, recruitment strategy and Academy Master Plan before hiring the head coach
 
-**The sustainable model: **
+**The sustainable model**
 
 Club Vision & Strategy → Philosophy (style of play) → Methodology → Recruitment Strategy → Academy Master Plan / Youth Development → Head Coach → Transfers 
 
