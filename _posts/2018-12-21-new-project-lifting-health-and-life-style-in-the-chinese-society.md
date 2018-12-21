@@ -1,5 +1,5 @@
 ---
-title: 'New project: Lifting health and life style in the Chinese society'
+title: 'New project: Lifting the Chinese society'
 category: Media
 language: en
 ---
