@@ -1,10 +1,10 @@
 ---
 title: Strategic Planning & Coaching
 permalink: /blog-tags/strategic-planning-coaching
-excerpt: From the Board Room to the Training Ground
+excerpt: '-'
 header:
   image: /assets/images/uploads/dscf6159_preview.jpg
-  overlay_image: /assets/images/uploads/optima-logo.jpg
+  overlay_image: /assets/images/uploads/optima-logo-2.png
 author_profile: true
 ---
 Based on my time in China building a professional football club and after visiting more than 20 top clubs during the past 6-7 years I have created a concept for football clubs on how to build a club in a sustainable manner using strategic planning and coaching from board room to the training ground – from theory to practical execution.
