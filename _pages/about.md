@@ -11,7 +11,7 @@ author_profile: true
 ## PRESENT
 
 * Age: 36
-* Technical Director at Shanghai SIPG F.C. (China)
+* Owner at Optima Football
 * UEFA PRO-Licensed Football Coach
 * Technical Advisor at Tonsser (international youth football APP)
 * Technical Advisor at El Cambio Academy (youth academy in Uganda)
@@ -23,7 +23,8 @@ author_profile: true
 
 ## PAST
 
-* 1. Team Coach, Match Analyzer/Head of Recruitment & U23 / Reserve Team Head Coach at Shanghai SIPG F.C. (China)
+* Technical Director at Shanghai SIPG F.C. (China)
+* 1.Team Coach, Match Analyzer/Head of Recruitment & U23 / Reserve Team Head Coach at Shanghai SIPG F.C. (China)
 * Assistant Coach, Match Analyzer & Head of Recruitment at Guangzhou R&F F.C. (China)
 * Technical Director at the Ebbe Sand Football Academy, Shanghai (China)
 * Head Coach at Brondby IF U19 (Denmark)
