@@ -30,6 +30,7 @@ author_profile: true
 * Technical Director at Shanghai SIPG F.C.
 * Technical Advisor at El Cambio Academy (Uganda)
 * Technical Advisor at KMD (international data-project in football)
+* Owner at Optima Football
 
 ## Academic resume:
 
