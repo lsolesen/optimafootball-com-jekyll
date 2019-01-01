@@ -45,4 +45,4 @@ author_profile: true
 
 ## Marital status:
 
-* Lives in Shanghai, China, with my wife, Katrine and our boy, Nohr Wu
+* Lives in London with my wife, Katrine and our boy, Nohr Wu
