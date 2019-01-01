@@ -14,7 +14,7 @@ Mads' lectures covers the down below subjects and will be arranged and planned s
 
 _\- A talent development discussion across cultures, diversity and continents: “How to manage the unmanageable?” _
 
-_\- Organisational succession planning: “How to build and implement a strategy to fulfil your vision over time?” _
+_\- Organisational succession planning: “How to build and implement a strategy to fulfil your vision over time - including the use of 'big data'?” _
 
 _\- Strategies & Football by 2025: “What are the demands of the modern game and how can we plan and work towards it”? _
 
