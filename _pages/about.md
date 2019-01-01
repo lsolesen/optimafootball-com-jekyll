@@ -19,7 +19,7 @@ author_profile: true
 * University Master in Journalism & History from Roskilde University (Denmark)
 * Mini MBA in Management and Leadership from Probana (Beijing University)
 * Author of the book "Når talent forpligter" (English tittle: "With Great Talent Comes Great Responsibility")
-* Key note speaker
+* Keynote speaker
 
 ## PAST
 
