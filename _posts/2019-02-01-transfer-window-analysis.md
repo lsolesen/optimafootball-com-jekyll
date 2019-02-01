@@ -3,7 +3,7 @@ title: Transfer Window Analysis
 category: Columns
 language: en
 ---
-This January 2019 transfer window has now closed through out most of Europe and there are a few interesting elements to analyse:
+The January 2019 transfer window has now closed through out most of Europe and there are a few interesting elements to analyse:
 
 \- This 2019-window was more quiet than the previous ones (all previous windows have been increasing since 2011); in relation to the number of deals and in terms of the actual spending. For example in the league traditionally spending the most, Premier League, are down 70% compared to the January 2018-window
 
