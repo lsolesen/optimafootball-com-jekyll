@@ -31,7 +31,6 @@ So are we biased because we have sympathy for Ole Gunnar and due to the luck and
 
 Not in a analytic perspective. The performances are not good enough to bring Manchester United back towards the top, but Solskjaer has created a feeling and a momentum, which probably will end up giving him the job.
 
-\
 **Case 2: Kamil Wilczek**
 
 The powerful Polish striker earned himself a new contract at Danish side Brondby IF – now staying at the club until 2021. What seems to be a very reasonable decision might not be clever after all checking the underlying performances and data.
