@@ -18,7 +18,7 @@ author_profile: true
 * Technical Advisor at KMD (international 'data-project' in football)
 * University Master in Journalism & History from Roskilde University (Denmark)
 * Mini MBA in Management and Leadership from Probana (Beijing University)
-* Author of the book "Når talent forpligter" (English tittle: "With Great Talent Comes Great Responsibility")
+* Author of the book ["Når talent forpligter"](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/naar-talent-forpligter_mads-davidsenhelle-hedegaard-heinrasmus-henning_haeftet_9788702192087) (English tittle: "With Great Talent Comes Great Responsibility")
 * Keynote speaker
 
 ## PAST

@@ -7,7 +7,7 @@ category:
 last_modified_at: 2017-07-04T10:34:53Z
 ---
 
-_A chapter from my book (in cooperation with Helle Hedegaard Hein) "Når talent forpligter" (Great talent requires great leadership):_
+_A chapter from my book (in cooperation with Helle Hedegaard Hein) ["Når talent forpligter"](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/naar-talent-forpligter_mads-davidsenhelle-hedegaard-heinrasmus-henning_haeftet_9788702192087) (Great talent requires great leadership):_
 
 In the Matthew Gospel (the first book of the New Testament) we find one of the first stories about ‘talent’ in the parable of the trusted talents:
 

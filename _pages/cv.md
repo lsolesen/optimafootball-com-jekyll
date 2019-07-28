@@ -41,7 +41,7 @@ author_profile: true
 * A Master in Journalism & History from Roskilde University, Denmark
 * A Mini MBA from Probana in Leadership & Management
 * Part of Playmaker booking (speeches & presentations)
-* Author of the book "Når talent forpligter" (English tittle: "With Great Talent Comes Great Responsibility")
+* Author of the book ["Når talent forpligter"](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/naar-talent-forpligter_mads-davidsenhelle-hedegaard-heinrasmus-henning_haeftet_9788702192087) (English tittle: "With Great Talent Comes Great Responsibility")
 
 ## Marital status:
 
