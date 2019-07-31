@@ -17,7 +17,6 @@ A head coach should obviously be part of the recruitment process, but he is neve
 
 But this is not how estimated 75% of clubs are operating. Why?
 
-\
 **Our analysis point out these possible reasons:**
 
 \- Lack of football knowledge in the ownership / board room
