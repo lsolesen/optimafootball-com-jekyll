@@ -9,6 +9,4 @@ It's first of all not an easy task to find and use data efficiently, but also fo
 
 Most coaches and leaders in football are former players, who know the game from the inside, but also can lack a more scientific and evidential approach to their work.
 
-But data has slowly moved inside the pro clubs, and it's moving in the right direction, which I try to explain in this article with data expert international company KMD (in Danish):
-
-<https://www.kmd.dk/Indsigter/Ekspert-i-fodbold-data-Dankse-klubber-kan-haeve-niveauet-paa-tre-omraader-med-big-data>
+But data has slowly moved inside the pro clubs, and it's moving in the right direction, which I try to explain to a data expert in the international company KMD (in Danish).
