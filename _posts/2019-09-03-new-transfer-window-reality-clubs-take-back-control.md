@@ -5,13 +5,15 @@ language: en
 ---
 Another summer transfer window in the world of football has now passed and strategically it was interesting to observe a larger skepticism and hesitation from a lot of clubs globally - as they are becoming more professional and detailed in their recruitment selection and decision-making processes.
 
-**A changed industry**
+**A changed industry**
 
 As a current strategic football advisor and technical consultant – my aim is not to help clubs from Sunday to Sunday. From game to game. At Optima Football, we operate to oversee and assist football clubs and federations becoming more sustainable over time by following a detailed strategy allowing the clubs/FA to control all decisions in all areas across the club.
 
-One of those areas is the recruitment strategy. For many years it has been the manager or head coach either controlling or heavily influencing which players were bought or sold. This would work for decades as the head coach used to be a long-term employee at a club - like Sir Alex Ferguson at Manchester United. But the industry has changed and today we have leagues around the world with a head coach averagely lasting less than 12 month (Cyprus, China, etc.).
+One of those areas is the recruitment strategy. For many years it has been the manager or head coach either controlling or heavily influencing which players were bought or sold. This would work for decades as the head coach used to be a long-term employee at a club - like Sir Alex Ferguson at Manchester United.
 
-Therefore, clubs need to take back the control, set up a long-term (club defined) strategy throughout all areas and departments. Then hire the core (club loyal) leaders to build, implement and oversee the football strategy. Not relying on a manager or his network anymore.
+But the industry has changed and today we have leagues around the world with a head coach averagely lasting less than 12 month (Cyprus, China, etc.).
+
+Therefore, clubs need to take back the control, set up a long-term (club defined) strategy throughout all areas and departments. Then hire the core (club loyal) leaders to build, implement and oversee the football strategy. Not relying on a manager or his network anymore.
 
 **Hesitation and skepticism are positive signs**
 
@@ -25,4 +27,6 @@ Through my work for clubs during this summer transfer window as well as discussi
 
 \- Also as journalist _Rory Smith_ wrote (in the _New York Times_) loan deals are growing as well as of two main reasons: One as of Financial Fair Play due to a loan deal being cheaper and can be scheduled into different budgets periods. Secondly as it give clubs time to actually assess the player for a longer period: Thereby minimizing the risk of making an expensive mistake with a transfer fee up front, so top clubs can ‘maintain their purchasing power’ this way too, as Rory Smith wrote in his column
 
-So an interesting 2019 summer transfer window showing signs of a more professional, detailed, demanding and over time more sustainable football world. We can only hope.
+So an interesting 2019 summer transfer window showing signs of a more professional, detailed, demanding and over time more sustainable football world. 
+
+We can only hope.
