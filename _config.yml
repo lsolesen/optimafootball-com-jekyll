@@ -76,7 +76,7 @@ footer:
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/Mads.Davidsen1982"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://dk.linkedin.com/in/mads-davidsen-9007545"
 
 
@@ -108,7 +108,7 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/Mads.Davidsen1982"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://dk.linkedin.com/in/mads-davidsen-9007545"
 
 # Reading Files
