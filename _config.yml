@@ -96,7 +96,7 @@ author:
   name             : "Mads Davidsen"
   avatar           : "/assets/images/authors/mads-davidsen.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : *description
-  location         : "Shanghai, China"
+  location         : "London, England"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
