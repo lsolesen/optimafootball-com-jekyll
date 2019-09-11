@@ -1,6 +1,6 @@
 ---
 title: Optima Football launches new academy
-category: Daily life
+category: Columns
 language: en
 ---
 As part of the vision to explore, challenge and develop the world of football, five ambitious people will be given an internal education and foundation to help build the sustainable football clubs of the future.
