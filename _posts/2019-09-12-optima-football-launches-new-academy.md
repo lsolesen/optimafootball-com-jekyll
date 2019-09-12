@@ -9,9 +9,9 @@ As part of the vision to explore, challenge and develop the world of football, f
 
 “I’m very pleased welcoming these ambitious young men who will provide further insights and new development to our sustainable model. It’s important we keep challenging and developing our concept from a scientific perspective to help football clubs grow strategically into the future.
 
-Also at a personal level, it’s a privilege to be able to give something back to others by helping them find the right direction career wise and hopefully help them fulfil their potential.
+“Also at a personal level, it’s a privilege to be able to give something back to others by helping them find the right direction career wise and hopefully help them fulfill their potential.
 
-One of the characteristics of my own motivation-archetype is the satisfaction of helping others succeed which makes it an even bigger pleasure having this new team enriching Optima Football".
+One of the characteristics of my own motivation-archetype is the satisfaction of helping others succeed which makes it an even bigger pleasure having this new team enriching Optima Football.
 
 The five newcomers at Optima Football are: Simon Jensen, Jacob Svarrer, Adam Føns, Mathias Damgaard and Mickey Ølholm.
 
