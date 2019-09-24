@@ -3,6 +3,8 @@ title: 'Born, made, developed? A discussion on talent'
 category: Columns
 language: da
 ---
+A free chapter from our book 
+
 **Det medfødte talent**
 
 Det største spørgsmål, der hersker inden for talentforskningen og den mere populærvidenskabelige talentlitteratur, er det evige spørgsmål om arv og miljø: Er talent primært noget med- født, dvs. et spørgsmål om genetik og medfødte intelligensfor- mer? Eller er talent primært noget tillært, dvs. et spørgsmål om mængden og kvaliteten af træning? Dette spørgsmål har delt talentforskningen og talentlitteraturen i forskellige paradigmer.
