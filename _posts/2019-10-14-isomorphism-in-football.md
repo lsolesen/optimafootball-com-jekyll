@@ -11,7 +11,7 @@ By putting bright young minds to the task of identifying their respective fields
 
 We wish to challenge and invite the world of professional football to participate in developing and debating this beautiful game on principles from science and knowledge, beneficiary to the clubs, the organisations, and spectators alike.
 
-Please enjoy our paper:
+Enjoy!
 
 <https://optimafootballacademy.wordpress.com/2019/10/14/isomorphism/>
 
