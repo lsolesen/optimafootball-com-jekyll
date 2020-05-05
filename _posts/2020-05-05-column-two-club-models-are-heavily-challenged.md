@@ -1,5 +1,5 @@
 ---
-title: 'Column: Two club models are heavily challenged'
+title: '"Two club models are heavily challenged"'
 category: Media
 language: en
 ---
