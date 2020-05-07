@@ -1,5 +1,5 @@
 ---
-title: Ny bog / New book
+title: Launch of new book
 category: Media
 language: da
 ---
