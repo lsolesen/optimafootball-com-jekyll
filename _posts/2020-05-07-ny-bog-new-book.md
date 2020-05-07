@@ -3,9 +3,9 @@ title: Ny bog / New book
 category: Media
 language: da
 ---
-Today, we (ex FC Copenhagen-CEO, Dan Hammer and I) are excited and proud to announce the official launch of our new book "_**Hvor svært kan det være**_?" ("_How hard can it be_?") coming in October.
+Today, we (ex FC Copenhagen-CEO, Dan Hammer and I) are excited and proud to announce the official launch of our new book "**_Hvor svært kan det være_**?" ("_How hard can it be_?") coming in October.
 
-The book theme is football strategies - how a club can fulfil its potential both on and off the pitch - over time. How to develop something sustainable in a short-term thinking and emotional-decision-making based industry. 
+The theme of the book is football strategies - how a club can fulfil its potential both on and off the pitch - over time. How to develop something sustainable in a short-term thinking and emotional-decision-making based industry. 
 
 To begin with the book will be published only in Danish, but we hope to move further into other countries and languages as well.
 
