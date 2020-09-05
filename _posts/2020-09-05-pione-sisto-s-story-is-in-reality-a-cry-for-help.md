@@ -3,7 +3,7 @@ title: 'Pione Sisto’s story is, in reality, a cry for help'
 category: Columns
 language: en
 ---
-**Publishes in May 2020:**
+**Published May 2020 (in _Politiken)_:**
 
 The story about Pione Sisto – in recent time becoming very relevant once again – is unfortunately yet another example from the revered world of football about a talented player, who has lost his motivation and direction, and might never reach his full potential.  
 
