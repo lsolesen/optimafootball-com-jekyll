@@ -1,11 +1,13 @@
 ---
-title: "Pione Sisto’s story is, in reality, a cry for help"
+title: 'Pione Sisto’s story is, in reality, a cry for help'
 category: Columns
 language: en
 ---
+**Publishes in May 2020:**
+
 The story about Pione Sisto – in recent time becoming very relevant once again – is unfortunately yet another example from the revered world of football about a talented player, who has lost his motivation and direction, and might never reach his full potential.  
 
-As observers of the Sisto-case, we can shrug our shoulders or shake our heads and assert that it is Pione’s own fault. And of course there is a degree of self-responsibility, and one cannot just leave their club without the permission to do so. That goes for most employer/employee relationships. 
+As observers of the Sisto-case, we can shrug our shoulders or shake our heads and assert that it is Pione’s own fault. And of course there is a degree of self-responsibility, and one cannot just leave their club without the permission to do so (like he did during COVID-19 in Vigo). That goes for most employer/employee relationships. 
 
 However, seen in a wider perspective, the case frustrates me, as it is not the first or the last. It is therefore about time that we within the industry evaluate ourselves and our cultures, and develop a far better groundwork for, and guidance of, the players. Earlier this spring, Manchester City player Kyle Walker also ran into problems when the British national team player first invited prostitutes to his house, despite the fact that Britain was under Covid-19 lockdown, and later went on an 'illegal' visit to his family. 
 
@@ -43,10 +45,10 @@ Only from knowing one self and being aware of one's own strengths and weaknesses
 
 In the case of Sisto, he has also become a 'victim' of the Instagram-generation where you have to be seen, recognized, and present yourself in the best possible way – publicly – all the time, even though the internal picture is cracking. The Celta Vigo player has plenty of confidence in his game, but when things go astray, the house of cards comes tumbling down for Pione, and that is too big a vulnerability to build an elite carrier on.
 
-That is why analysis of the players drive is far more important than whether the next opponent plays with wide wingers on the final third, making the player a pure tactical fit. Sisto states in an interview with Danish media, _Politiken_, quite honestly that he has all the trappings: money, a big house, a football carrier in Spain, and despite that he’s still missing the most important thing – the internal – a purpose and a feeling of happiness. 
+That is why analysis of the players drive is far more important than whether the next opponent plays with wide wingers on the final third, making the player a pure tactical fit. Sisto states in an interview with Danish media, _Politiken (from May)_, quite honestly that he has all the trappings: money, a big house, a football carrier in Spain, and despite that he’s still missing the most important thing – the internal – a purpose and a feeling of happiness. 
 
 That is why we really need to go through our football culture, looking at how we can do better, develop more well-rounded and clear-minded individuals, who hold insight to their own drive and motivation, and help the young talents in finding the right advisors and mentors, who do not necessarily need to make a profit off the talent’s career. It is about time, as reflected in Sisto’s story.
 
 The way clubs manage talent today, setting specific goals, can directly kill the passion, and the sense of purpose in the long run, if clubs and leaders are not familiar with the person's archetype and primary drive. 
 
-Let us help the players so that we do not find ourselves with more and more unrealized talents in the future.
+Let us help the players so that we do not find ourselves with more and more unrealized talents in the future. And let's hope Sisto finds his way back - now back home at FC Midtjylland.
