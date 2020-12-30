@@ -20,7 +20,7 @@ A lot of experts write about listing targets/goals in order to achieve them and 
 For some people listing specific targets/goals can be a useful tool to maintain focus and to push them out of their comfort zone, but in my opinion it’s too simplified to believe that one strategy can cover the variety of archetypes in society and thereby motivate every single type of person.
 
 **Goals are not (always) meaningful**\
-I have together with a researcher in motivation & leadership over the past 3 years done a field study in motivation in sports to find empiricism and reinvent the historically simpleminded motivation theories. Our book was published in May 2017 in Danish (Når talent forpligter).
+I have together with researcher in motivation & leadership, Helle Hein, done a field study in motivation in sports to find empiricism and reinvent the historically simpleminded motivation theories. Our book was published in May 2017 in Danish (Når talent forpligter).
 
 What we discovered was a misunderstanding by the leaders & coaches in relation to a group of athletes and their inner drive. These athletes are examples of people not motivated by writing down specific goals. Being given a big bonus if they win a match does not motivate them. For them it’s meaningless if they invest all their life and time in simple outcome like this. For them it’s about making a difference lifting their sport to a new dimension creating something bigger than them.
 
