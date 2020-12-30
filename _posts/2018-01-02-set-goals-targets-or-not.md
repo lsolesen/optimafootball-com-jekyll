@@ -1,8 +1,7 @@
 ---
 title: 'Set goals, targets or not?'
 permalink: /blog/set-goals-targets-or-not
-category:
-  - Columns
+category: Daily life
 language: en
 ---
 What’s your motivation? What’s your drive? And which experiences in your career do you remember in particular as meaningful? These questions can guide you towards your true inner drive and in time higher your performances and create a more sustainable career.
