@@ -6,3 +6,7 @@
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <!-- realfavicongenerator.net -->
+
+{% if page.sitemap == false or page.robots %}
+  <meta name="robots" content="{{ page.robots | default: "noindex" }}">
+{% endif %}
