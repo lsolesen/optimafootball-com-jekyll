@@ -10,7 +10,7 @@ author_profile: true
 ---
 ## PRESENT
 
-* Age: 36
+* Age: 38
 * Owner at Optima Football
 * UEFA PRO-Licensed Football Coach
 * Technical Advisor at Tonsser (international youth football APP)
@@ -19,7 +19,9 @@ author_profile: true
 * University Master in Journalism & History from Roskilde University (Denmark)
 * Mini MBA in Management and Leadership from Probana (Beijing University)
 * Author of the book ["Når talent forpligter"](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/naar-talent-forpligter_mads-davidsenhelle-hedegaard-heinrasmus-henning_haeftet_9788702192087) (English tittle: "With Great Talent Comes Great Responsibility")
+* Author of the book "How hard can it be"? - about strategies in football
 * Keynote speaker
+* Sporting Director at Al Jazira Club (UAE)
 
 ## PAST
 
