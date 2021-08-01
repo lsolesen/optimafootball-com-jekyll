@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/uploads/optima-logo-2.png
 author_profile: true
 ---
-Welcome to my company '**Optima Football**' and our** 'Sustainable Model'.**
+Welcome to my company '**Optima Football**' and our 'Sustainable Model'.
 
 Based on my time in various contries building a professional football club and after visiting more than 20 top clubs during the past 10 years, I have created a concept for football clubs on how to build a club in a sustainable manner using strategic planning and coaching from board room to the training ground – from theory to practical execution.
 
