@@ -31,6 +31,7 @@ author_profile: true
 * Technical Advisor at El Cambio Academy (Uganda)
 * Technical Advisor at KMD (international data-project in football)
 * Owner at Optima Football
+* Sporting Director at Al Jazira Club 
 
 ## Academic resume:
 
@@ -42,7 +43,8 @@ author_profile: true
 * A Mini MBA from Probana in Leadership & Management
 * Part of Playmaker booking (speeches & presentations)
 * Author of the book ["Når talent forpligter"](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/naar-talent-forpligter_mads-davidsenhelle-hedegaard-heinrasmus-henning_haeftet_9788702192087) (English tittle: "With Great Talent Comes Great Responsibility")
+* Author of the book "Hvor svært kan det være?" (English tittle: 'How hard can it be?'
 
 ## Marital status:
 
-* Lives in London with my wife, Katrine and our boy, Nohr Wu
+* Lives in Abu Dhabi with my wife, Katrine and our boys, Nohr Wu and Arthur Leo
