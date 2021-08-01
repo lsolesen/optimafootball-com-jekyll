@@ -1,5 +1,5 @@
 ---
-title: Strategic Planning
+title: The Sustainable Model
 permalink: /blog-tags/strategic-planning-coaching
 excerpt: '-'
 header:
