@@ -9,7 +9,7 @@ author_profile: true
 ---
 Welcome to my company '**Optima Football**' and our 'Sustainable Model'.
 
-Based on my time in various contries building a professional football club and after visiting more than 20 top clubs during the past 10 years, I have created a concept for football clubs on how to build a club in a sustainable manner using strategic planning and coaching from board room to the training ground – from theory to practical execution.
+Based on my time in various countries building a professional football club and after visiting more than 20 top clubs during the past 10 years, I have created a concept for football clubs on how to build a club in a sustainable manner using strategic planning and coaching from board room to the training ground – from theory to practical execution.
 
 The concept is meant for the clubs to operate on a more strategic level making the strategy transparent for all employees.
 
