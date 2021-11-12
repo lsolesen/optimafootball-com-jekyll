@@ -1,6 +1,6 @@
 ---
 title: 'Statement: Cooperation with University of Liverpool'
-category: Media
+category: Columns
 language: en
 ---
 A proud moment as our book '_How hard can it be?_' now officially is part of the curriculum at the _University of Liverpool _&_ University of Liverpool Management School_ and their MBA-program.
