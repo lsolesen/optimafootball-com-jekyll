@@ -3,7 +3,7 @@ title: Happy New Year - find your meaning of life
 category: Daily life
 language: en
 ---
-2021 has been a strange year in many ways. The World was getting back to normal, but now it seems big again and challenges ahead before normality.
+2021 has been a strange year in many ways. The World was close getting back to normal, but now it seems big again and challenges ahead before normality.
 
 Personally, me and my family have been very privileged not having the disease close to us (yet) or facing a huge effect on our lives as well. So, we really can't complain in the big picture.
 
