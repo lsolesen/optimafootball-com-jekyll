@@ -1,5 +1,5 @@
 ---
-title: Happy New Year - now what?
+title: Happy New Year - find your meaning of life
 category: Daily life
 language: en
 ---
