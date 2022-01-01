@@ -1,5 +1,5 @@
 ---
-title: Happy New Year - find your meaning of life
+title: Happy New Year - ask yourself the right questions
 category: Daily life
 language: en
 ---
