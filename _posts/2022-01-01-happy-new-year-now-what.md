@@ -9,7 +9,7 @@ Personally, me and my family have been very privileged not having the disease cl
 
 We are still enjoying our cultural experience in the Gulf and work wise we won the UAE championship with Al Jazira Club, so a massive year football wise. Also our book 'How hard can it be'? has won its international reputation and is now used in both universities and clubs as curriculum. This makes us very proud.
 
-A new year is ahead of us and while we wait for the vaccines to do their impact a new year also opens up for new ideas and possibilities. I have done a piece about how to approach this below:
+A new year is ahead of us and year also opens up for new ideas and possibilities. I have done a piece about how to approach this below:
 
 **What’s your motivation? What’s your drive?** **And which experiences in your career do you remember in particular as meaningful?** These questions can guide you towards your true inner drive and in time higher your performances and create a more sustainable career.
 
