@@ -1,5 +1,5 @@
 ---
-title: Winner of the UAE Super Cup
+title: Winner of the UAE Super Cup 2021/2022
 category: Daily life
 language: en
 ---
