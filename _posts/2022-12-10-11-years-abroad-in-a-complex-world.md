@@ -5,7 +5,7 @@ language: en
 ---
 2012-2023: The end of an era
 
-How to comprehend 11 years abroad across various countries, cultures, roles, life changing moments, expanding network and personal development? What a ride! We have loved this way of living learning about the world while we were both developing individual careers leading to unique experiences. 
+How to comprehend 11 years abroad across various countries, cultures, roles, life changing moments, expanding network and personal development? What a ride! I have loved this way of living learning about the world developing individual careers leading to unique experiences. 
 
 The international urban vibe in Shanghai, the tropical climate and more ‘wild living’ in Guangzhou, the hectic and busy life across China. A China turned upside down when Xi Jinping came along. So many helpful and humble people with proud family traditions taking good care of the elderly.
 
