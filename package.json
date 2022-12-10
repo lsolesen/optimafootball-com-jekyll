@@ -1,0 +1,25 @@
+{
+  "name": "madsdavidsen.com",
+  "version": "1.0.0",
+  "description": "Official site for madsdavidsen.com.",
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/lsolesen/madsdavidsen-com-jekyll.git"
+  },
+  "keywords": [
+    "jekyll",
+    "blog"
+  ],
+  "author": "Lars Olesen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lsolesen/madsdavidsen-com-jekyll/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "bundle exec jekyll server --port 8080 --incremental",
+    "lsi": "bundle exec jekyll server --port 8080 --incremental --lsi",
+    "draft": "bundle exec jekyll server --port 8080 --incremental --drafts"
+  }
+}
