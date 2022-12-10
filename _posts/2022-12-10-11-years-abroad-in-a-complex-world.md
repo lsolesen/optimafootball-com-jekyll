@@ -3,7 +3,7 @@ title: 11 years abroad in a complex World
 category: Daily life
 language: en
 ---
-**2012-2023: **The end of an era
+2012-2023: The end of an era
 
 After nearly 11 years living abroad; how to comprehend 11 years across various countries, cultures, roles, life changing moments, expanding network and personal development? What a ride! We have loved this way of living learning about the world while we were both developing individual careers leading to unique experiences. 
 
