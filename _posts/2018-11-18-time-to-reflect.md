@@ -2,6 +2,7 @@
 title: Time to reflect
 category: Daily life
 language: en
+permalink: /time-to-reflect-2018/
 ---
 I have now after nearly 7 years in China - operating in Chinese football - returned for a holiday period in Denmark. 
 
