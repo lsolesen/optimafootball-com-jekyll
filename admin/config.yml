@@ -11,19 +11,25 @@ slug:
 
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
+    editor:
+      preview: false
     label: "Blog" # Used in the UI
+    label_singular: 'Post'
     folder: "_posts/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    sortable_fields: ['commit_date', 'title']
+    sortable_fields: ['title', 'commit_date', 'last_modified_at']
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "hidden"}
       - {label: "Category", name: "category", widget: "select", options: ["Daily life", "Strategic Planning & Coaching", "Columns", "Media"]}
-      - {label: "Language", name: "language", widget: "select", options: ["en", "da"]}
+      - {label: "Excerpt", name: "excerpt", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Modified", name: "modified", widget: "hidden"}
+      - {label: "Last modified at", name: "last_modified_at", widget: "datetime", format: "YYYY-MM-DDThh:mm:ssZ", dateFormat: "DD-MM-YYYY", timeFormat: "HH:mm", required: false}
+      - {label: "Language", name: "language", widget: "select", options: ["en", "da"]}
   - name: "pages" # Used in routes, e.g., /admin/collections/blog
+    editor:
+      preview: false
     label: "Pages" # Used in the UI
     folder: "_pages/" # The path to the folder where the documents are stored
     create: false # Allow users to create new documents in this collection
@@ -37,9 +43,11 @@ collections:
         name: "header"
         widget: "object"
         fields: 
+          - {label: "Image", name: "image", widget: "image"}
           - {label: "Overlay image", name: "overlay_image", widget: "image"}
           - {label: "Header image", name: "image", widget: "image"}
       - {label: "Author profile", name: "author_profile", widget: "select", options: ["true", "false"]}
+      - {label: "Last modified at", name: "last_modified_at", widget: "datetime", format: "YYYY-MM-DDThh:mm:ssZ", dateFormat: "DD-MM-YYYY", timeFormat: "HH:mm", required: false}
   - label: "Site options"
     name: "settings"
     editor:
@@ -69,14 +77,6 @@ collections:
                 fields:
                   - {label: "Label", name: "label", widget: "string", required: false}
                   - {label: "Url", name: "url", widget: "string", required: false}
-              - label: Video
-                name: video
-                widget: object
-                collapsed: true
-                required: false
-                fields:
-                  - {label: "Provider", name: "provider", widget: "select", options: ["youtube", "google-drive"], default: "", required: false}
-                  - {label: "ID", name: "id", widget: "string", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
           - label: Feature row
             name: feature_row
