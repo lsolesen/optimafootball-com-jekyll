@@ -2,11 +2,14 @@
 title: Transfer Market Consultancy - Recruitment Advisory for Football
 permalink: /home/transfers.html
 excerpt: >-
-  Therefore Optima Football can be hired as a transfer advisor during a transfer window to connect partners, advise on players or help connect to agents and relevant partners.
+  Therefore Optima Football can be hired as a transfer advisor during a transfer
+  window to connect partners, advise on players or help connect to agents and
+  relevant partners.
 header:
-  image: https://www.optimafootball.com/____impro/1/onewebmedia/imageedit_3_4870583847.gif?etag=W%2F%225cbc5-5c24effd%22&sourceContentType=image%2Fgif&quality=85
-  #image: /assets/images/md-speaks.jpg
+  image: >-
+    https://www.optimafootball.com/____impro/1/onewebmedia/imageedit_3_4870583847.gif?etag=W%2F%225cbc5-5c24effd%22&sourceContentType=image%2Fgif&quality=85
 author_profile: true
+last_modified_at: '2022-12-01T12:00:00+01:00'
 ---
 
 Optima Football has a world wide network in terms of club decision makers, agents, and players as well as experiences in handling transfer windows and squad planning.
