@@ -1,8 +1,10 @@
 ---
 title: Align your club from the board room to the pitch
-category: Strategic Planning & Coaching
+category: Media
 language: en
 link: http://www.jc.ae/en/news/football-news/dr-sultan-al-jaber-statement-on-the-al-jazira-fc-league-title-win/
+redirect_from:
+  - /strategic-planning-coaching/align-your-club-from-the-board-room-to-the-pitch/
 ---
 As my consultancy company **Optima Football** has researched and analysed in previous years; football club's often lack a long term strategic plan and as well miss the connection between the board room and the pitch.
 

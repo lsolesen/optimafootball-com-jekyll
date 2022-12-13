@@ -1,6 +1,8 @@
 ---
 title: Club Advisory - Preparing your club for the future
 permalink: /home/consulting.html
+redirect_from:
+  - /blog-tags/strategic-planning-coaching
 excerpt: >-
   We help clubs succeeding in bringing the strategy from the offices to the training pitch and create sustainable clubs. We create a sustainable road to success.
 header:
