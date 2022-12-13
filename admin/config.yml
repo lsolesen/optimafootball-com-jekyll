@@ -105,7 +105,7 @@ collections:
               - {label: "Title", name: "title", widget: "string", required: false}
               - {label: "Image", name: "image_path", widget: "string", required: false}
               - {label: "Alt", name: "alt", widget: "string", required: false}
-              - {label: "Exerpt", name: "excerpt", widget: "markdown", required: false}
+              - {label: "Exerpt", name: "excerpt", widget: "text", required: false}
               - {label: "Url", name: "url", widget: "string", required: false}
               - {label: "Btn label", name: "btn_label", widget: "string", required: false}
               - {label: "Btn class", name: "btn_class", widget: "select", options: ["", "btn--success", "btn--warning", "btn--danger", "btn--info"], default: "", required: false}
@@ -118,7 +118,7 @@ collections:
               - {label: "Title", name: "title", widget: "string", required: false}
               - {label: "Image", name: "image_path", widget: "string", required: false}
               - {label: "Alt", name: "alt", widget: "string", required: false}
-              - {label: "Exerpt", name: "excerpt", widget: "markdown", required: false}
+              - {label: "Exerpt", name: "excerpt", widget: "text", required: false}
               - {label: "Url", name: "url", widget: "string", required: false}
               - {label: "Btn label", name: "btn_label", widget: "string", required: false}
               - {label: "Btn class", name: "btn_class", widget: "select", options: ["", "btn--success", "btn--warning", "btn--danger", "btn--info"], default: "", required: false}
@@ -144,7 +144,7 @@ collections:
               - {label: "Title", name: "title", widget: "string", required: false}
               - {label: "Image", name: "image_path", widget: "string", required: false}
               - {label: "Alt", name: "alt", widget: "string", required: false}
-              - {label: "Exerpt", name: "excerpt", widget: "markdown", required: false}
+              - {label: "Exerpt", name: "excerpt", widget: "text", required: false}
               - {label: "Url", name: "url", widget: "string", required: false}
               - {label: "Btn label", name: "btn_label", widget: "string", required: false}
               - {label: "Btn class", name: "btn_class", widget: "select", options: ["", "btn--success", "btn--warning", "btn--danger", "btn--info"], default: "", required: false}
