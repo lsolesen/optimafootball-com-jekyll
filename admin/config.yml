@@ -5,9 +5,19 @@ backend:
 
 media_folder: "assets/images/uploads" # Media files will be stored in the repo under images/uploads
 
+site_url: https://www.madsdavidsen.com
+display_url: https://www.madsdavidsen.com
+logo_url: https://www.madsdavidsen.com/android-chrome-144x144.png
+
+show_preview_links: true
+
+editor:
+  preview: false
+
 slug:
   encoding: "ascii"
   clean_accents: true
+  sanitize_replacement: "-"
 
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
@@ -18,7 +28,12 @@ collections:
     folder: "_posts/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    sortable_fields: ['title', 'commit_date', 'last_modified_at']
+    view_groups:
+      - label: Year
+        field: last_modified_at
+        # groups items based on the value matched by the pattern
+        pattern: \d{4}
+    sortable_fields: ['title', 'last_updated_on', 'commit_date']
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "hidden"}
