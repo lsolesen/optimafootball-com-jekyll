@@ -1,0 +1,15 @@
+Blog:
+  title: Blog
+  url: /blog/
+Media:
+  title: Media & Press
+  url: /blog-tags/media
+Daily life:
+  title: Daily Life
+  url: /blog-tags/daily-life
+Strategic Planning & Coaching:
+  title: Strategic Planning & Coaching
+  url: /blog-tags/strategic-planning-coaching
+Columns:
+  title: Columns
+  url: /blog-tags/columns
