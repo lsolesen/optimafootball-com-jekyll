@@ -7,6 +7,8 @@ header:
   image: https://www.optimafootball.com/____impro/1/onewebmedia/Optima%20logo%202.png?etag=%221503b-5e13a968%22&sourceContentType=image%2Fpng&quality=85
   #image: /assets/images/md-speaks.jpg
 author_profile: true
+redirect_from:
+  - /daily-life/welcome-to-optima-football/
 ---
 We wish to give something back to this amazing game by designing a new club model in a more sustainable way.
 
