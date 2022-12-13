@@ -9,6 +9,6 @@ Brondby IF is historically one of the biggest clubs in Scandinavia, but haven't 
 
 Media links about the cooperation:
 
-<https://brondby.com/nyhed/2019/04/23/ebbe-sand-om-ny-organisation-vi-skal-kunne-goere-det-bedre?fbclid=IwAR27MUG6P7ICBIuj5MqRI97gpSFQ4sYnlUglzhphBh1ynZRyLQrawJI9D0w>
+<https://brondby.com/nyhed/2019/04/23/ebbe-sand-om-ny-organisation-vi-skal-kunne-goere-det-bedre>
 
 <https://www.tipsbladet.dk/nyhed/superliga/mads-davidsen-om-broendby-vi-skal-have-skabt-en-storklub-igen>

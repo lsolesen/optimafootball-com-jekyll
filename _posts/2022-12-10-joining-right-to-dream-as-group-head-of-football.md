@@ -9,6 +9,6 @@ I will help design and oversee a global football strategy aligning the RTD-units
 
 **More info below:**
 
-[**https://fcn.dk/2022/11/mads-davidsen-bliver-group-head-of-football-i-right-to-dream/?fbclid=IwAR32ypHnGklKLhEpS1gms11OUBdneqmkYw9RU5XhsmgeezNXE1GZYJbh-zw**](https://fcn.dk/2022/11/mads-davidsen-bliver-group-head-of-football-i-right-to-dream/?fbclid=IwAR32ypHnGklKLhEpS1gms11OUBdneqmkYw9RU5XhsmgeezNXE1GZYJbh-zw)
+[**https://fcn.dk/2022/11/mads-davidsen-bliver-group-head-of-football-i-right-to-dream/**](https://fcn.dk/2022/11/mads-davidsen-bliver-group-head-of-football-i-right-to-dream/)
 
 <https://www.righttodream.com/.../a-new-addition-to-rtd...!>

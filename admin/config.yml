@@ -60,9 +60,8 @@ collections:
         name: "header"
         widget: "object"
         fields: 
-          - {label: "Image", name: "image", widget: "image"}
-          - {label: "Overlay image", name: "overlay_image", widget: "image"}
-          - {label: "Header image", name: "image", widget: "image"}
+          - {label: "Image", name: "image", widget: "image", required: false}
+          - {label: "Overlay image", name: "overlay_image", widget: "image", required: false}
       - {label: "Author profile", name: "author_profile", widget: "select", options: ["true", "false"]}
       - {label: "Last modified at", name: "last_modified_at", widget: "datetime", format: "YYYY-MM-DDThh:mm:ssZ", dateFormat: "DD-MM-YYYY", timeFormat: "HH:mm", required: false}
   - label: "Site options"
