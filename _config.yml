@@ -52,7 +52,7 @@ yandex_site_verification :
 twitter:
   username               : "MadsReDavidsen"
 facebook:
-  username               : "Mads.Davidsen1982"
+  username               : ""
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -63,7 +63,6 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://twitter.com/MadsReDavidsen"
-    - "https://facebook.com/Mads.Davidsen1982"
     - "https://dk.linkedin.com/in/mads-davidsen-9007545"
 
 
@@ -75,9 +74,6 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/MadsReDavidsen"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/Mads.Davidsen1982"
     - label: "E-mail"
       icon: "fa fa-fw fa-envelope-square"
       url: "mailto: mads@optimafootball.com"
@@ -110,9 +106,6 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://dk.linkedin.com/in/mads-davidsen-9007545"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/Mads.Davidsen1982"
 
 # Reading Files
 include:

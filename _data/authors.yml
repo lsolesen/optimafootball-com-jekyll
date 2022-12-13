@@ -12,9 +12,3 @@ mads_davidsen:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://dk.linkedin.com/in/mads-davidsen-9007545"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/Mads.Davidsen1982"
-    - label: "Resume"
-      icon: "fas fa-fw fa-file"
-      url: /cv/
