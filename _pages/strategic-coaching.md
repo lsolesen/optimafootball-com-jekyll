@@ -1,9 +1,9 @@
 ---
 title: The Sustainable Model
 permalink: /blog-tags/strategic-planning-coaching
-excerpt: '-'
+excerpt: The Sustainable Model from Optima Football
 header:
-  image: /assets/images/uploads/dscf6159_preview.jpg
+  image: ''
   overlay_image: /assets/images/uploads/optima-logo-2.png
 author_profile: true
 ---
@@ -32,3 +32,5 @@ Also in football I believe we need to start using science and data to make the r
 Visit **Optima Football** to read more:
 
 <https://optimafootball.com/>
+
+![Optima Football Sustainable Model](/assets/images/uploads/thesustainablemodel_final_jpg.jpg)
