@@ -8,6 +8,8 @@ header:
 author: mads_davidsen
 author_profile: true
 toc: true
+redirect_from:
+  - /home/academy.html
 ---
 
 Book a presentation from Optima Football and get inspired.
