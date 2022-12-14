@@ -13,5 +13,5 @@ mads_davidsen:
       icon: "fab fa-fw fa-linkedin"
       url: "https://dk.linkedin.com/in/mads-davidsen-9007545"
     - label: "About"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "/about-mads-davidsen/"

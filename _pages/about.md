@@ -7,7 +7,7 @@ excerpt: >-
   UEFA Pro Football Coach - Owner at Optima Football - Technical Director &
   Strategic Advisor - Author - Keynote speaker
 header:
-  overlay_image: /assets/images/mads-davidsen.jpg
+  overlay_image: /assets/images/hero/mads-davidsen-frontpage.jpg
 author_profile: true
 ---
 ## PRESENT
