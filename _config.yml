@@ -14,7 +14,7 @@ locale                   : "en"
 title                    : "Optima Football"
 title_separator          : "-"
 name                     : "Optima Football"
-description              : &description "Strategic Planning and Coaching for professional football clubs. We bring your strategies to life."
+description              : "Strategic Planning and Coaching for professional football clubs. We bring your strategies to life."
 url                      : "https://madsdavidsen.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lsolesen/madsdavidsen-com-jekyll" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -92,9 +92,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mads Davidsen"
-  avatar           : "/assets/images/authors/mads-davidsen.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : *description
+  name             : "Optima Football"
+  avatar           : "/android-chrome-144x144.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Strategic Planning and Coaching for professional football clubs. We bring your strategies to life."
   location         : "London, England"
   links:
     - label: "E-mail"
