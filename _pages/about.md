@@ -9,6 +9,7 @@ excerpt: >-
 header:
   overlay_image: /assets/images/hero/mads-davidsen-frontpage.jpg
 author_profile: true
+author: mads_davidsen
 ---
 ## PRESENT
 
