@@ -17,7 +17,7 @@ The Middle Eastern culture, conservatism, desert, a young country, extreme weath
 
 I feel rich in experiences!
 
-And I'm privileged to continue my career across the world together with Right To Dream (<https://madsdavidsen.com/daily%20life/joining-right-to-dream-as-group-head-of-football/>) 
+And I'm privileged to continue my career across the world together with Right To Dream. [Read more here](/daily-life/joining-right-to-dream-as-group-head-of-football/). 
 
 I think my humble advise would be: Do it! Go ahead. Explore. Lean. Grow. Keep an open mindset and be curious. The world is a very complex place. Don’t judge others. Try to understand others with their perspective at eye. We can all learn from each other if we bring the right mindset when exploring.
 
