@@ -4,7 +4,8 @@ permalink: /book/
 excerpt: >-
   Book a presentation from Optima Football and get inspired. Mads Davidsen has in the past decade done presentations for companies, clubs, organisations and universities.
 header:
-  overlay_image: /assets/images/md-speaking.jpg
+  image: /assets/images/md-speaking.jpg
+  alt: Mads Davidsen from Optima Football presenting af key note
 author: mads_davidsen
 author_profile: true
 toc: true
