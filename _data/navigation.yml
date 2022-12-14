@@ -19,13 +19,7 @@ main:
 sidebar:
   - title: "Shortcuts"
     children:
-      - title: "About Mads Davidsen"
-        url: /about-mads-davidsen/
       - title: "Book a presentation"
         url: /book/
-      - title: "Daily Life"
-        url: /blog-tags/daily-life
-      - title: "Columns"
-        url: /blog-tags/columns
       - title: "Club Advisory"
         url: /home/consulting.html
