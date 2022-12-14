@@ -2,7 +2,6 @@
 title: '''How hard can it be''? - case of Spurs'
 category: Media
 language: en
-link: https://offthepitch.com/a/you-wont-find-onoff-button-attached-strategy-authors-strategy-book-confused-whether-tottenham
 ---
 In our (w/Dan Hammer) football strategic book 'How hard can it be'? (**FYI:** still only available in Danish - English version in the making) we use Tottenham as a case of a club that choose a certain head coach / certain style of play not reflecting their club history, identity, DNA or origin. 
 
@@ -16,3 +15,5 @@ We therefore questioned whether Spurs had changed their entire football strategy
 
 \- According to the authors, clubs such as Tottenham Hotspur need to realise that they cannot continue to outperform competitors who are spending significantly more money on transfers and wages.\
 Read the full Tottenham-analysis in the link below at media _Offthepitch_:
+
+<https://offthepitch.com/a/you-wont-find-onoff-button-attached-strategy-authors-strategy-book-confused-whether-tottenham>

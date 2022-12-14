@@ -17,43 +17,43 @@ Position: Same for all
 
 Moment: Same for all
 
- Direction: Same for all
+Direction: Same for all
 
- Speed: Different for all
+Speed: Different for all
 
-**50-meter swimming: **
+**50-meter swimming:**
 
 Position: Same for all
 
- Moment: Same for all 
+Moment: Same for all
 
-Direction: Same for all 
+Direction: Same for all
 
 Speed: Different for all
 
 **1000-meter rowing:**
 
-Position: Same for all 
+Position: Same for all
 
 Moment: Same for all
 
- Direction: Same for all
+Direction: Same for all
 
- Speed: Different for all
+Speed: Different for all
 
 **Football:**
 
 Position: Different for all
 
- Moment: Different for all
+Moment: Different for all
 
- Direction: Different for all
+Direction: Different for all
 
- Speed: Different for all 
+Speed: Different for all
 
 \= Football is much more than just running, speed or power, while the other three sports mostly are about speed and power as is the construction of the competition.
 
-Football 2018 is a game of intelligence and speed of action – not just speed. Football is an open-game sport as it has decision-making all over the pitch - on and off the ball. And therefore the game intelligence (when to do what - and how?) is the main difference between a top player and an average player: “It’s all about understanding time and space” as legend Johan Cruyff would have said.  
+Football 2018 is a game of intelligence and speed of action – not just speed. Football is an open-game sport as it has decision-making all over the pitch - on and off the ball. And therefore the game intelligence (when to do what - and how?) is the main difference between a top player and an average player: “It’s all about understanding time and space” as legend Johan Cruyff would have said. 
 
 **The systematic offense**
 
@@ -69,9 +69,9 @@ The offensive, systematic approach is driven by coaches like Pep Guardiola, Maur
 
 But even a coach as Jürgen Klopp is re-defining his style of play in these years and have more possession than a normal ‘direct-related counter based style of play’. Liverpool against Manchester City for an example had only three passes fewer than Pep’s team and Liverpool had more passes than Chelsea at Stamford Bridge some weeks ago as well. These examples support that the teams at the highest level are recognizing the importance of controlling the game by possessing the ball. 
 
-  **More passes & less free kicks**
+**More passes & less free kicks**
 
- Football is also developing when we look at data and analyze the development through measurable tools. Some examples:
+Football is also developing when we look at data and analyze the development through measurable tools. Some examples:
 
 \- More passes per game: As mentioned above. A normal game now has more passes than 10 years ago. It’s not only Manchester City and their philosophy, but also a development in general. 1000 passes per game is now quite average on the highest level. So we need to teach our teams to be stronger on the ball and not only off the ball. And we need to teach our youth players the necessary technical level and tactical structured approach to solve the demands of the modern game
 

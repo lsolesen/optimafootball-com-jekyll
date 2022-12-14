@@ -13,7 +13,7 @@ The short-term result logic makes sense on the given day. As we prefer to win an
 
 I’ll use two examples down below to discuss if we are making ‘clever’ decisions or not:
 
- **Case 1: Ole Gunnar Solskjaer**
+**Case 1: Ole Gunnar Solskjaer**
 
 He is first of all a very nice man, Ole Gunnar. A good coach. And right now he has a fantastic run as interim Manchester United-manager.
 

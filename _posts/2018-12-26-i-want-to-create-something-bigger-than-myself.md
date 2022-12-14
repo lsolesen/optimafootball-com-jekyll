@@ -2,7 +2,6 @@
 title: '"I want to create something bigger than myself"'
 category: Media
 language: en
-link: https://dontt.dk/mads-davidsen-fra-vision-til-virkelighed/
 ---
 Reflecting about the past thinking about the future has been my December. And I'm now more clear and ready to move into the next phase of my career.
 
@@ -11,3 +10,5 @@ I want to create something bigger than myself. I want to make a difference throu
 And therefore, I'm ready from 2019 to operate as a consultant - only picking the right projects and not just work to have a job.
 
 Read more in this interview (in Danish):
+
+<https://dontt.dk/mads-davidsen-fra-vision-til-virkelighed/>

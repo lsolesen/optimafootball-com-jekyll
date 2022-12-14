@@ -2,7 +2,6 @@
 title: 'Statement: Cooperation with Escuela Universitaria Real Madrid'
 category: Daily life
 language: en
-link: https://www.howhardcanitbebook.com/
 ---
 "How hard can it be?"
 

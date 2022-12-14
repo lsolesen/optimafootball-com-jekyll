@@ -2,7 +2,6 @@
 title: Coming home to Denmark
 category: Daily life
 language: en
-link: https://dontt.dk/mads-davidsen/
 ---
 **Coming home:** Sometimes in life there are moments and situations where things are much bigger than yourself. Moments where a choice is not really a choice, but a necessary change. Where you don’t need much consideration as you know what to do - even there are other interesting options available. 
 
@@ -11,3 +10,5 @@ Due to a ‘family situation’ our current way of living abroad moving around t
 We will see you all out there!
 
 **Interview about the move (in Danish):**
+
+<https://dontt.dk/mads-davidsen/>

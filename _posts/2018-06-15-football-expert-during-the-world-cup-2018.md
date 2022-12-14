@@ -1,6 +1,6 @@
 ---
 title: Football expert during the World Cup 2018
-category: In the media
+category: Media
 language: da
 ---
 The World Cup 2018 has begun and working inside the football industry; it's an amazing period and possibility to study and analyse our beloved game. The best players are gathered and one month of intense games has started!

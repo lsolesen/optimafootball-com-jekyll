@@ -6,5 +6,3 @@ link: >-
 language: en
 ---
 A proud moment for Dan Hammer and myself as one of the best and most serious sports media _The Athletic_ has done this in-depth article around our football strategic book 'How hard can it be?'
-
-Buy the e-book af <https://www.howhardcanitbebook.com/>

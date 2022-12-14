@@ -1,6 +1,6 @@
 ---
 title: 'Interview: Use of data in football'
-category: In the media
+category: Media
 language: da
 ---
 I have in the last 10 years or so worked with data trying to study and explore how to implement data efficiently in the World of football.
