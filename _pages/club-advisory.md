@@ -6,7 +6,7 @@ redirect_from:
 excerpt: >-
   We help clubs succeeding in bringing the strategy from the offices to the training pitch and create sustainable clubs. We create a sustainable road to success.
 header:
-  image: https://www.optimafootball.com/____impro/1/onewebmedia/imageedit_1_4543491043.gif?etag=%224d076-5c24ef16%22&sourceContentType=image%2Fgif&quality=85
+  image: /assets/images/hero/mads-consulting.jpg
   #image: /assets/images/md-speaks.jpg
 author_profile: true
 ---
