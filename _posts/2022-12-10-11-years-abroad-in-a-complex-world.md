@@ -2,6 +2,8 @@
 title: 11 years abroad in a complex World
 category: Daily life
 language: en
+redirect_from:
+  - /daily life/11-years-abroad-in-a-complex-world/
 ---
 2012-2023: The end of an era
 

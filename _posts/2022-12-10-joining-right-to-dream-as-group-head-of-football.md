@@ -2,6 +2,8 @@
 title: Joining Right To Dream - as Group Head of Football
 category: Daily life
 language: en
+redirect_from:
+  - /daily life/joining-right-to-dream-as-group-head-of-football/
 ---
 I’m excited to announce the next journey in my career as I have joined the very proactive, forward thinking organisation ‘Right to Dream’ (RTD) as Group Head of Football.
 
