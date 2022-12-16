@@ -14,7 +14,9 @@ We help clubs succeeding in bringing the strategy from the offices to the traini
 
 ## The sustainable road to success
 
-Bringing the club strategy all the way from the offices to the training pitch is a difficult step. The way many football clubs are run today is very unsustainable. Clubs happily give the club keys to a person (the head coach) who they will probably kick out again if they loose a few games.
+Bringing the club strategy all the way from the offices to the training pitch is a difficult step. The way many football clubs are run today is very unsustainable.
+
+Clubs happily give the club keys to a person (the head coach) who they will probably kick out again if they loose a few games.
 
 As a professional football club you must secure the future - not just secure a win next Sunday.
 
@@ -32,7 +34,7 @@ Only after completing this process, hiring a head coach and looking at transfers
 
 It's the long - but also long-lasting - road to success.
 
-- - -
+***
 
 75% of all clubs are strategically unhealthy. This Optima Football analysis showed us the need to update the current club model used around the world.
 
@@ -46,6 +48,8 @@ Where should the club attack from, based on its own merits? And not least, defin
 
 It is “movement” and the ongoing performance that over time will solve the “purpose”... winning. Not the other way around.
 
-This requires visionary leadership, a balanced budget, a long-term football strategy, and the right people to implement and execute the plan over time. And therefore, we have designed and developed The Sustainable Model which can inspire and guide clubs to work strategically and more long-term driven.
+This requires visionary leadership, a balanced budget, a long-term football strategy, and the right people to implement and execute the plan over time.
 
-![Optima Football Sustainable Model](/assets/images/uploads/thesustainablemodel_final_jpg.jpg)
+And therefore, we have designed and developed The Sustainable Model which can inspire and guide clubs to work strategically and more long-term driven.
+
+![Mads Davidsen keynote speak](/assets/images/mads-2022-speaking-1.jpg)
