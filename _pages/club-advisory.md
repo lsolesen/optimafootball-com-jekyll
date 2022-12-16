@@ -1,16 +1,15 @@
 ---
-title: Club Advisory - Preparing your club for the future
+title: Club Advisory - Do you want to be a stone cutter or build cathedrals?
+seo_title: Optima Football Consultancy
 permalink: /home/consulting.html
-redirect_from:
-  - /blog-tags/strategic-planning-coaching
 excerpt: >-
-  We help clubs succeeding in bringing the strategy from the offices to the training pitch and create sustainable clubs. We create a sustainable road to success.
+  We help clubs succeeding in bringing the strategy from the offices to the
+  training pitch and create sustainable clubs. We create a sustainable road to
+  success.
 header:
   image: /assets/images/hero/mads-consulting.jpg
-  #image: /assets/images/md-speaks.jpg
 author_profile: true
 ---
-
 {{ page.excerpt }}
 
 ## The sustainable road to success
@@ -33,7 +32,7 @@ Only after completing this process, hiring a head coach and looking at transfers
 
 It's the long - but also long-lasting - road to success.
 
-***
+- - -
 
 75% of all clubs are strategically unhealthy. This Optima Football analysis showed us the need to update the current club model used around the world.
 
