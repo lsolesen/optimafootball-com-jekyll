@@ -94,7 +94,6 @@ author:
   name             : "Optima Football"
   avatar           : "/android-chrome-144x144.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Optima Football Consulting is helping professional football clubs develop in a sustainable way with strategic planning."
-  location         : "London, England"
   links:
     - label: "E-mail"
       icon: "fa fa-fw fa-envelope-square"
