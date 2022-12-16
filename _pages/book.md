@@ -1,15 +1,14 @@
 ---
 title: Keynote Speaker
+seo_title: 'From our founder '
 permalink: /book/
-excerpt: Book a presentation from Optima Football and get inspired. Mads Davidsen has in the past decade done presentations for companies, clubs, organisations and universities.
+excerpt: >-
+  Book a presentation from Optima Football and get inspired. The founder of
+  Optima Football, Mads Davidsen, has in the past decade done presentations for
+  companies, clubs, organisations and universities.
 header:
   image: /assets/images/hero/md-speaking.jpg
-  alt: Mads Davidsen from Optima Football presenting af key note
-author: mads_davidsen
 author_profile: true
-toc: true
-redirect_from:
-  - /home/academy.html
 ---
 
 Book a presentation from Optima Football and get inspired.
