@@ -1,4 +1,5 @@
 ---
+layout: posts
 title: Optima Football Blog
 seo_title: Optima Football Blog
 permalink: /blog/

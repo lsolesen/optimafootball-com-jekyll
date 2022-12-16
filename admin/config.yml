@@ -66,6 +66,7 @@ collections:
           - {label: "Alt", name: "alt", widget: "string", required: false}
       - {label: "Author profile", name: "author_profile", widget: "select", options: ["true", "false"]}
       - {label: "Last modified at", name: "last_modified_at", widget: "datetime", format: "YYYY-MM-DDThh:mm:ssZ", dateFormat: "DD-MM-YYYY", timeFormat: "HH:mm", required: false}
+      - {label: "Layout", name: "layout", widget: "select", options: ["single", "posts", "category", "categories", "tags"], default: "single"}
   - label: "Frontpage"
     name: "frontpage"
     editor:
