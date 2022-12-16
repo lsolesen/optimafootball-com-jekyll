@@ -1,6 +1,6 @@
 ---
 title: Club Advisory - Do you want to be a stone cutter or build cathedrals?
-seo_title: Optima Football Consultancy
+seo_title: Club Advisory from Optima Football Consultancy
 permalink: /home/consulting.html
 excerpt: >-
   We help clubs succeeding in bringing the strategy from the offices to the
@@ -10,7 +10,7 @@ header:
   image: /assets/images/hero/mads-consulting.jpg
 author_profile: true
 ---
-{{ page.excerpt }}
+We help clubs succeeding in bringing the strategy from the offices to the training pitch and create sustainable clubs. We create a sustainable road to success.
 
 ## The sustainable road to success
 
