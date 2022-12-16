@@ -6,4 +6,4 @@ author_profile: true
 ---
 In this section you'll find links to selected articles and news about Optima Football.
 
-{% include figure image_path="/assets/images/md-tv.jpeg" caption="undefined" alt="Mads Davidsen from Optima Football in DRTV" %}
+{% include figure image_path="/assets/images/md-tv.jpeg" caption="" alt="Mads Davidsen from Optima Football in DRTV" %}
