@@ -1,6 +1,5 @@
-# main links
 main:
-  - title: "Our why?"
+  - title: Our why
     url: /our-why/
   - title: Club advisory
     url: /home/consulting.html
@@ -10,16 +9,10 @@ main:
     url: /blog-tags/media
   - title: Blog
     url: /blog/
-#  - title: "Daily Life"
-#    url: /blog-tags/daily-life
-#  - title: "Columns"
-#    url: /blog-tags/columns
-#  - title: "Media"
-#    url: /blog-tags/media
 sidebar:
-  - title: "Shortcuts"
-    children:
-      - title: "Book a presentation"
+  - children:
+      - title: Book a presentation
         url: /book/
-      - title: "Club Advisory"
+      - title: Club Advisory
         url: /home/consulting.html
+    title: Shortcuts
