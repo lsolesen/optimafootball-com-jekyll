@@ -10,17 +10,14 @@ header:
   image: /assets/images/hero/md-speaking.jpg
 author_profile: true
 ---
-
 Book a presentation from Optima Football and get inspired.
 
-Mads Davidsen has in the past decade done presentations for companies, clubs, organisations and universities. Mads has a great experience theoretically through his university- and football related educations and practically leadership wise from the professional world in Denmark, China and lately the Middle East.
+Mads Davidsen has in the past decade done many presentations for companies, clubs, organisations and universities. The lectures covers the down below subjects and will be arranged and planned so it suits the needs of your organisation.
 
-Mads' lectures covers the down below subjects and will be arranged and planned so it suits your organisations needs 100%.
-
-- A talent development discussion across cultures, diversity and continents: “How to manage the unmanageable?”
-- Organisational succession planning: “How to build and implement a strategy to fulfil your vision over time - including the use of 'big data'?”
-- Strategies & Football by 2025: “What are the demands of the modern game and how can we plan and work towards it”?
-- Motivation & feedback culture: “How do we lead other people”? Including empirical field study cases from my book ‘With great talent comes great responsibility'
+* A talent development discussion across cultures, diversity and continents: “How to manage the unmanageable?”
+* Strategy & club models: “How to build and implement a strategy to fulfil your vision over time?
+* "The future game": What are the demands of the modern game and how can align our strategy to the next decade?
+* Motivation & feedback culture: “How do we lead and motivate other people”? Including empirical field study cases from my (w/Helle Hein) book "With great talent comes great responsibility
 
 ## Endorsements
 
