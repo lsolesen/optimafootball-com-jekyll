@@ -1,6 +1,6 @@
 ---
 title: Our Why
-seo_title: The Sustainable Model
+seo_title: Our Why - The Sustainable Model from Optima Football
 permalink: /our-why/
 excerpt: >-
   We wish to give something back to this amazing game by designing a new club
