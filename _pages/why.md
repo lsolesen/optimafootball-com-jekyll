@@ -1,29 +1,20 @@
 ---
-title: Our Why - Optima Football Academy - Educating the next generation
+title: Our Why
+seo_title: The Sustainable Model
 permalink: /our-why/
 excerpt: >-
-  We wish to give something back to this amazing game by designing a new club model in a more sustainable way.
+  We wish to give something back to this amazing game by designing a new club
+  model in a more sustainable way.
 header:
   image: /assets/images/uploads/optima-logo-2.png
-  #image: /assets/images/md-speaks.jpg
 author_profile: true
-redirect_from:
-  - /daily-life/welcome-to-optima-football/
 ---
 We wish to give something back to this amazing game by designing a new club model in a more sustainable way.
 
 Football can do so much better and we feel obligated to try to help making a difference. Our passion is to share knowledge and experience with the aim to help clubs making better decisions over time.
 
-***
+- - -
 
-Optima Football Consulting is a company helping professional football clubs develop in a sustainable way with strategic planning.
+Our heart is 'The Sustainable Model', which differs from the current approaches of many clubs, as in the latter, the club itself owns, builds, and implements the football strategy, and based on their plan, chooses a head coach appropriate to the vision and football strategy to implement it; not decide upon or change it.
 
-In latin, optima means the best obtainable result or in other words - fullfil a potential.
-
-Successful companies like Apple or Carlsberg have long-term strategies to fulfill their succession planning. And they have core staff staying in their jobs for many years to maintain the strategy and continuity. This is one of the major keys to succeed in the long run.
-
-A professional football club needs to implement sustainable strategies if it wants to be a serious competitor again - and again - and again.
-
-Not only to keep winning matches and maintaining the ideal position (achieve the potential) for the club, but also to stop wasting money by sacking coaches and staff - and changing numerous players in the squad every season.
-
-Our concept & model build club strategies and makes the road to long-lasting success transparent and obtainable for the entire club.
+The Sustainable Model, however, is characterised by a holistic mindset based on the club’s history, self-understanding, culture, surroundings, and the environment in which it exists, and it is a tool for enabling clubs to build a strategy, implement a structure, and create sustainability over time. The theory behind the model includes “The Three Pillar Framework” by W. Richard Scott (2014) as well as the ATDE model by Kristoffer Henriksen (2011).”
