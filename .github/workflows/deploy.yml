@@ -42,7 +42,7 @@ jobs:
         run: bundle exec jekyll doctor
       - name: 🔨 Build site
         run: |
-          JEKYLL_ENV=production bundle exec jekyll build --trace --verbose --lsi
+          JEKYLL_ENV=production bundle exec jekyll build --trace --verbose --lsi --profile
       - name: 🎉 Deploy to GitHub Pages 🎊
         if: success()
         uses: crazy-max/ghaction-github-pages@v2
