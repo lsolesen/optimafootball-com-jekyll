@@ -24,7 +24,7 @@ Founder of Optima Football Consulting, Mads Davidsen, has in the past decade don
 
 **Head of Scouting, Match Analysis and Diagnosis at DfB (German Football Federation), Christofer Clemens**
 
-It was a pleasure to have Mads Davidsen as a guest speaker in our DFB Management in Professional Football course. Mads insights and experience on how to develop a healthy club strategy within a high-performance football environment was very inspiring and helpful for our next generation of football leaders. He delivered many exciting impulses that should be used in the daily work routine of any Technical and Sporting Director.
+It was a pleasure to have Mads Davidsen as a guest speaker in our DFB Management in Professional Football course. Mads' insights and experience on how to develop a healthy club strategy within a high-performance football environment was very inspiring and helpful for our next generation of football leaders. He delivered many exciting impulses that should be used in the daily work routine of any Technical and Sporting Director.
 
 **Professor & Director of the Center of Sport and Management at WHU - Otto Beisheim School of Management, Sascha L. Schmidt**
 
