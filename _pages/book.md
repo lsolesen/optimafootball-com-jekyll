@@ -30,6 +30,18 @@ It was a pleasure to have Mads Davidsen as a guest speaker in our DFB Management
 
 > Mads has been among the most inspiring speakers at SPOAC. His speeches are top notch - qualitatively as well as energetically. It is always a real pleasure to listen to him.
 
+
+
+**Managing Director, Ahmet Hizal, FOCUS Education, Sporting Directors program**
+
+Mads was invited to give a lecture at FOCUS - Sporting Directors program on the subject of forming a sporting strategy and aligning a recruitment strategy into the sporting strategy based on various circumstances.  
+
+Mads' experiences in football in completely different regions and cultures was a strong point that we were keen to have him in our program. And, he went simply beyond inspiring our students. His knowledge and expertise and additionally his experience led a valuable and insightful lecture for our students who have an aim to take their first professional steps to football-club management.
+
+He demonstrated clear and actionable insights into forming a sporting and recruitment strategy for football clubs.
+
+
+
 **CEO at Insightview.eu, Carsten Bonde Pedersen**
 
 > Mads has given some very interesting lectures on coaching and developing of employees in China. These have been highly appreciated by Insightview.eu's clients from the financial sector in Europe and the United States.
