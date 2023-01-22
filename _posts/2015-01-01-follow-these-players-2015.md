@@ -13,4 +13,4 @@ I have chosen a mix of talents - under 20 years - and more established players u
 
 Read the list here (in Danish, but with pictures of all 10 players):
 
-<http://www.bt.dk/fodbold/se-listen-disse-10-supertalenter-skal-du-holde-oeje-med-i-2015>
+<https://www.bt.dk/fodbold/se-listen-disse-10-supertalenter-skal-du-holde-oeje-med-i-2015>

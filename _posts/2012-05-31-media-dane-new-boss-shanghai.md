@@ -13,8 +13,8 @@ A collection of stories regarding my goodbye to Danish football and hello to Chi
 
 **Read them here:**
 
-- http://www.bold.dk/nyt/Dansker-chef-for-kinesisk-akademi
-- http://www.90minutter.dk/m-davidsen-det-har-vaeret-laererigt/
-- http://www.tipsbladet.dk/nyhed/generelle/broendby-traener-bliver-direktoer-i-kina
-- http://www.sporten.dk/fodbold/broendby-traener-bliver-direktoer-i-kina
-- http://brondby.com/article.asp?aid=70237&id=145
+- https://www.bold.dk/nyt/Dansker-chef-for-kinesisk-akademi
+- https://www.90minutter.dk/m-davidsen-det-har-vaeret-laererigt/
+- https://www.tipsbladet.dk/nyhed/generelle/broendby-traener-bliver-direktoer-i-kina
+- https://www.sporten.dk/fodbold/broendby-traener-bliver-direktoer-i-kina
+- https://brondby.com/article.asp?aid=70237&id=145

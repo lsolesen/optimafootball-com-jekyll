@@ -24,6 +24,6 @@ Down below are two articles with my words related to how to succeed abroad or in
 “You have 0 % chance of succeeding without adjusting, respecting and accepting the culture of the country, business and/or organization (club), you work for / in”  
 _Mads Davidsen 2016 ©_
 
-<http://www.footballwhispers.com/blog/past-success-no-guarantee-chinese-super-league-impact>
+<https://www.footballwhispers.com/blog/past-success-no-guarantee-chinese-super-league-impact>
 
-<http://gbtimes.com/china/mads-davidsen-life-and-football-china>
+<https://gbtimes.com/china/mads-davidsen-life-and-football-china>

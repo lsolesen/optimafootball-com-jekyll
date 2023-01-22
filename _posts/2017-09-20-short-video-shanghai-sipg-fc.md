@@ -12,4 +12,4 @@ A few month ago, I had a visit from _Rabona Magazine_ and the journalist Michael
 
 It's now launched on YouTube and you can find the 5min video in the link below:
 
-[https://www.youtube.com/watch?v=GTVNYTDzZqI](http://www.youtube.com/watch?v=GTVNYTDzZqI)
+[https://www.youtube.com/watch?v=GTVNYTDzZqI](https://www.youtube.com/watch?v=GTVNYTDzZqI)

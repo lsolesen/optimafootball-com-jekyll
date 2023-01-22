@@ -13,4 +13,4 @@ I am interviewed about my job in Brondby IF and talks about the future as well.
 
 
 
-Read it all here - <http://www.totalfootballmag.com/features/world-football/coaching-the-next-generation-of-great-danes/>
+Read it all here - <https://www.totalfootballmag.com/features/world-football/coaching-the-next-generation-of-great-danes/>

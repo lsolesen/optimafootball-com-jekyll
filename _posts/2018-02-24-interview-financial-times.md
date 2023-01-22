@@ -11,4 +11,4 @@ The 2018-football season in China are ahead of us and this past week, I did an i
 
 In the article by journalist _Ben Bland_ several people with knowledge and experience in China are interviewed as well:
 
-[https://www.ft.com/content/657d3dec-12f6-11e8-940e-08320fc2a277](http://www.ft.com/content/657d3dec-12f6-11e8-940e-08320fc2a277)
+[https://www.ft.com/content/657d3dec-12f6-11e8-940e-08320fc2a277](https://www.ft.com/content/657d3dec-12f6-11e8-940e-08320fc2a277)

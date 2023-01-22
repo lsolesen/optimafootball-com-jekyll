@@ -11,4 +11,4 @@ Our vision is not only to be developing the best players of the region, but also
 
 A great challenge professionally and personally lies ahead of me and us as a family.
 
-<http://www.jc.ae/en/news/football-news/al-jazira-appoints-new-director-of-football-as-the-club-targets-future-sporting-success/>
+<https://www.jc.ae/en/news/football-news/al-jazira-appoints-new-director-of-football-as-the-club-targets-future-sporting-success/>

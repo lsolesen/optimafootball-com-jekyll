@@ -11,4 +11,4 @@ It is only with these crucial elements in place that a club can grow sustainable
 
 At **Al Jazira Club**, I'm privileged to work under a very professional board and through a clear vision that we have described into our club strategy. Therefore, this statement below from our chairman is a great proof of our club alignment after we won the Arabian Gulf League title 2020/2021 earlier this week:
 
-<http://www.jc.ae/en/news/football-news/dr-sultan-al-jaber-statement-on-the-al-jazira-fc-league-title-win/>
+<https://www.jc.ae/en/news/football-news/dr-sultan-al-jaber-statement-on-the-al-jazira-fc-league-title-win/>

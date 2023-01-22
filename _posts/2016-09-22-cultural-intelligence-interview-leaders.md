@@ -11,4 +11,4 @@ I recently had a very interesting talk & discussion with some good people from L
 
 In the end; LEADERS requested an interview on the subject, which can be found below:
 
-[https://leadersinsport.com/performance/cultural-intelligence-can-pave-way-coaching-success-china/](http://leadersinsport.com/performance/cultural-intelligence-can-pave-way-coaching-success-china/)
+[https://leadersinsport.com/performance/cultural-intelligence-can-pave-way-coaching-success-china/](https://leadersinsport.com/performance/cultural-intelligence-can-pave-way-coaching-success-china/)

@@ -12,8 +12,8 @@ Our Chinese players trial in Denmark has been a success. The player Tycho has pe
 **See them both here:**
 
   
-<http://www.youtube.com/watch?v=X6uk14qWurk> (DR1) - on Danish
+<https://www.youtube.com/watch?v=X6uk14qWurk> (DR1) - on Danish
 
 
 
-[http://www.lorry.dk/arkiv/2013/1/3?video\_id=75138](http://www.lorry.dk/arkiv/2013/1/3?video_id=75138) (Tv2) - on Danish
+[https://www.lorry.dk/arkiv/2013/1/3?video\_id=75138](https://www.lorry.dk/arkiv/2013/1/3?video_id=75138) (Tv2) - on Danish

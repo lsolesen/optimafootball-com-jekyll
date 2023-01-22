@@ -11,4 +11,4 @@ The Chinese Super League 2017-season is starting this weekend and the entire Wor
 
 The New York Times visited me this past week in Shanghai for a talk - before the season opener - as of my 5 years of experience in Chinese football:
 
-[https://www.nytimes.com/2017/03/02/sports/soccer/shanghai-chinese-super-league-soccer.html?\_r=2](http://www.nytimes.com/2017/03/02/sports/soccer/shanghai-chinese-super-league-soccer.html?_r=2)
+[https://www.nytimes.com/2017/03/02/sports/soccer/shanghai-chinese-super-league-soccer.html?\_r=2](https://www.nytimes.com/2017/03/02/sports/soccer/shanghai-chinese-super-league-soccer.html?_r=2)

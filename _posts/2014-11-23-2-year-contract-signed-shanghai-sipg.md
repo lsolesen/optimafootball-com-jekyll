@@ -11,4 +11,4 @@ I'm very proud and happy to annouce that my future now is in place. I have signe
 
 Down below are an article in Danish about the new deal:
 
-<http://www.b.dk/sport/dansk-traener-foelger-med-sven-goeran-eriksson-til-nyt-kinesisk-storhold>
+<https://www.b.dk/sport/dansk-traener-foelger-med-sven-goeran-eriksson-til-nyt-kinesisk-storhold>

@@ -11,4 +11,4 @@ In January 2013 I will bring one of my most talented players for trial in Denmar
 
 »Tycho is an interesting player, and he deserves the chance to train at one of the best soccer academies in Europe, said ESSA Director of Soccer and Head Coach, Mads Davidsen, “We are here to help and develop Chinese soccer, and this is the first step«.
 
-Read more here - <http://wildeastfootball.net/2013/01/future-star-shanghai-schoolboy-heads-to-europe-for-trials/>
+Read more here - <https://wildeastfootball.net/2013/01/future-star-shanghai-schoolboy-heads-to-europe-for-trials/>

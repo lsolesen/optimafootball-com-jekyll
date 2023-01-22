@@ -13,8 +13,8 @@ As I've been working in Chinese football for the past 4 years; I've been a part 
 
 You can read/head a few of the articles via the links down below:
 
-<http://www.espnfc.us/major-league-soccer/19/blog/post/2805827/what-does-the-chinese-super-leagues-ambition-mean-for-mls>
+<https://www.espnfc.us/major-league-soccer/19/blog/post/2805827/what-does-the-chinese-super-leagues-ambition-mean-for-mls>
 
-<http://www.bbc.co.uk/programmes/p03hlf4d> (15:00min into the radio show)
+<https://www.bbc.co.uk/programmes/p03hlf4d> (15:00min into the radio show)
 
-[http://www.goal.com/en/news/11/transfer-zone/2016/02/11/20169892/this-is-a-new-reality-why-the-worlds-best-are-now-choosing?ICID=HP\_BN\_3](http://www.goal.com/en/news/11/transfer-zone/2016/02/11/20169892/this-is-a-new-reality-why-the-worlds-best-are-now-choosing?ICID=HP_BN_3​)[](http://www.espnfc.us/major-league-soccer/19/blog/post/2805827/what-does-the-chinese-super-leagues-ambition-mean-for-mls)
+[https://www.goal.com/en/news/11/transfer-zone/2016/02/11/20169892/this-is-a-new-reality-why-the-worlds-best-are-now-choosing?ICID=HP\_BN\_3](https://www.goal.com/en/news/11/transfer-zone/2016/02/11/20169892/this-is-a-new-reality-why-the-worlds-best-are-now-choosing?ICID=HP_BN_3​)[](https://www.espnfc.us/major-league-soccer/19/blog/post/2805827/what-does-the-chinese-super-leagues-ambition-mean-for-mls)

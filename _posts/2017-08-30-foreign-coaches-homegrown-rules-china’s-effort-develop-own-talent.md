@@ -11,4 +11,4 @@ I had a talk with _Planetfootball_ on youth development and the future focus for
 
 The interview can be found down below:
 
-<http://www.planetfootball.com/in-depth/foreign-coaches-homegrown-rules-chinas-effort-develop-talent/>
+<https://www.planetfootball.com/in-depth/foreign-coaches-homegrown-rules-chinas-effort-develop-talent/>

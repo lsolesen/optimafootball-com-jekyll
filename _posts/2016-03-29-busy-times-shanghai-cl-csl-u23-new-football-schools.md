@@ -28,4 +28,4 @@ So busy times in Shanghai, but still some very interesting tasks here and I real
 
 You can read about our football schools down below (in English):
 
-[http://www.shanghaidaily.com/sports/soccer/SIPG-steps-up-hunt-for-youth-talent/shdaily.shtml](http://www.shanghaidaily.com/sports/soccer/SIPG-steps-up-hunt-for-youth-talent/shdaily.shtml)
+[https://www.shanghaidaily.com/sports/soccer/SIPG-steps-up-hunt-for-youth-talent/shdaily.shtml](https://www.shanghaidaily.com/sports/soccer/SIPG-steps-up-hunt-for-youth-talent/shdaily.shtml)

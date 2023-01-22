@@ -13,4 +13,4 @@ In this radio interview with Susan Salzbrenner from Fita Cross Cultures, I get t
 
 Listen to the radio interview down below (in English):
 
-<http://www.fitacrosscultures.com/episode11/>
+<https://www.fitacrosscultures.com/episode11/>

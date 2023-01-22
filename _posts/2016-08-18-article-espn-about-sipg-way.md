@@ -13,4 +13,4 @@ We have already taken some proactive steps and one of them in the near future ca
 
 I had a chat with ESPN and journalist John Duerden about this (in English):
 
-<http://www.espnfc.com/blog/football-asia/153/post/2930933/chinese-super-league-growing-as-shanghai-sipg-grow-europe-links>
+<https://www.espnfc.com/blog/football-asia/153/post/2930933/chinese-super-league-growing-as-shanghai-sipg-grow-europe-links>

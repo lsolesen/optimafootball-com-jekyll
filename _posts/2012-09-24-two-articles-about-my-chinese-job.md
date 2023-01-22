@@ -13,5 +13,5 @@ In these two articles myself and Ebbe Sand talks about our Academy and why we ar
 
 Read both stories here:
 
-- Article from [bundesligafootball.co.uk](http://bundesligafootball.co.uk) is no longer online
-- <http://www.totalfootballmag.com/features/world-football/danish-influence-inspiring-thousands-in-china/>
+- Article from [bundesligafootball.co.uk](https://bundesligafootball.co.uk) is no longer online
+- <https://www.totalfootballmag.com/features/world-football/danish-influence-inspiring-thousands-in-china/>

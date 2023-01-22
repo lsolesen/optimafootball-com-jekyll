@@ -11,4 +11,4 @@ I had a visit from the English newspaper, _The Daily Mail_, this past week in Sh
 
 You can read the article down below:
 
-<http://www.dailymail.co.uk/wires/afp/article-4794592/Dane-vanguard-Chinas-World-Cup-quest.html>
+<https://www.dailymail.co.uk/wires/afp/article-4794592/Dane-vanguard-Chinas-World-Cup-quest.html>

@@ -13,6 +13,6 @@ Some links below regarding Bale & Chinese football from my perspective and netwo
 
 <https://twitter.com/SkyFootball/status/1153764699898601475>
 
-<http://www.dai-sport.com/gareth-bale-tipped-huge-china-although-end-milan/>
+<https://www.dai-sport.com/gareth-bale-tipped-huge-china-although-end-milan/>
 
 <https://pandaradio.co.uk/gareth-bale-real-madrid-stars-agents-in-talks-over-1m-a-week-china-move/>

@@ -11,8 +11,8 @@ I love inspiration in my daily life and motivation is my patch to work hard ever
 
 
 
-http://blivinspireret.dk/ - An inspiration site on Danish - great idea!
+https://blivinspireret.dk/ - An inspiration site on Danish - great idea!
 
 
 
-http://www.forbes.com/sites/erikaandersen/2012/01/18/why-top-talent-leaves-top-10-reasons-boiled-down-to-1/ - Forbes about talents and their lack of motivation - very interesting.
+https://www.forbes.com/sites/erikaandersen/2012/01/18/why-top-talent-leaves-top-10-reasons-boiled-down-to-1/ - Forbes about talents and their lack of motivation - very interesting.

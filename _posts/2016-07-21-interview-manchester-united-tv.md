@@ -11,4 +11,4 @@ Several European top teams are in China these weeks on Pre-Season Tour, & I did 
 
 You can see the interview down below via YouTube:
 
-[https://www.youtube.com/watch?v=xylaTkZbB04&feature=youtu.be](http://www.youtube.com/watch?v=xylaTkZbB04&feature=youtu.be)
+[https://www.youtube.com/watch?v=xylaTkZbB04&feature=youtu.be](https://www.youtube.com/watch?v=xylaTkZbB04&feature=youtu.be)

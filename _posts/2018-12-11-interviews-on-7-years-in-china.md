@@ -11,6 +11,6 @@ One interview is with the sports media brand 'Mediano' while the other interview
 
 Both podcasts are in Danish:
 
-<http://www.mediano.nu/oversigt/2018/12/6/mads-davidsen-om-syv-vilde-r-i-kina-og-svaret-p-hvad-fremtiden-bringer>
+<https://www.mediano.nu/oversigt/2018/12/6/mads-davidsen-om-syv-vilde-r-i-kina-og-svaret-p-hvad-fremtiden-bringer>
 
 <https://www.24syv.dk/programmer/kina-snak/38065870/vabenhvilen-mads-davidsens-farvel>

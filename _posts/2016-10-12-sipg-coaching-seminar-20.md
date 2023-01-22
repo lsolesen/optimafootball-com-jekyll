@@ -17,4 +17,4 @@ In 2017 we will arrange four more 'SIPG coaching seminars', and I can't wait to 
 
 You can see a video from our coaching seminar 2.0 down below (in English & Chinese):
 
-[https://www.youtube.com/watch?v=xRk0XsPbqjI](http://www.youtube.com/watch?v=xRk0XsPbqjI​)
+[https://www.youtube.com/watch?v=xRk0XsPbqjI](https://www.youtube.com/watch?v=xRk0XsPbqjI​)

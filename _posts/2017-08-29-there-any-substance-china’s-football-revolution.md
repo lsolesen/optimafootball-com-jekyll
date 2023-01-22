@@ -11,4 +11,4 @@ The journalist _Michael Da Silva_ visited me recently in Shanghai as part of his
 
 He will create a documentary on Chinese football, but started with this article down below:
 
-<http://www.dw.com/en/is-there-any-substance-to-chinas-football-revolution/a-39923711>
+<https://www.dw.com/en/is-there-any-substance-to-chinas-football-revolution/a-39923711>

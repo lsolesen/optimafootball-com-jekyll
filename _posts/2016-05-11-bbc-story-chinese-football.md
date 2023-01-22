@@ -13,4 +13,4 @@ They also interviewed our Head Coach, Sven Goran Eriksson, among other 'pioneers
 
 The story is now online on various platforms, but one article can be found here:
 
-<http://www.bbc.com/sport/football/36242298>
+<https://www.bbc.com/sport/football/36242298>

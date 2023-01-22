@@ -13,4 +13,4 @@ One thing was very interesting for me in the study: For many years, us coaches h
 
 Very interesting debate - read more here (on Danish):
 
-http://www.information.dk/450640
+https://www.information.dk/450640

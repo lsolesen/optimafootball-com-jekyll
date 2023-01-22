@@ -11,4 +11,4 @@ I've worked together with the 'Player Development Project' for a while and recen
 
 You can read the blog here (in English):
 
-[https://playerdevelopmentproject.com/chinese-powerhouse/?utm\_content=buffera48f2&utm\_medium=social&utm\_source=twitter.com&utm\_campaign=buffer](http://playerdevelopmentproject.com/chinese-powerhouse/?utm_content=buffera48f2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer​)
+[https://playerdevelopmentproject.com/chinese-powerhouse/?utm\_content=buffera48f2&utm\_medium=social&utm\_source=twitter.com&utm\_campaign=buffer](https://playerdevelopmentproject.com/chinese-powerhouse/?utm_content=buffera48f2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer​)

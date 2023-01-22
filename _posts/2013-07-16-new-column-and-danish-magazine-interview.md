@@ -11,11 +11,11 @@ This week my columns are now online at the biggest English site regarding Chines
 
 **You can read my first column right here:**
 
-[http://wildeastfootball.net/2013/07/the-mads-davidsen-column-shenhua-deadly-on-the-left-again/](http://www.wildeastfootball.net/2013/07/the-mads-davidsen-column-shenhua-deadly-on-the-left-again/)
+[https://wildeastfootball.net/2013/07/the-mads-davidsen-column-shenhua-deadly-on-the-left-again/](https://www.wildeastfootball.net/2013/07/the-mads-davidsen-column-shenhua-deadly-on-the-left-again/)
 
   
 Furthermore, I gave an interview to the Danish football magazine, KONTRA, about working and visiting Football Academies around the World.
 
 **Read a teaser for the article here, where it is possible to download the complete magazine for free as well (in Danish):**
 
-<http://www.bold.dk/nyt/Kontra-Paa-rundtur-hos-talentfabrikker>
+<https://www.bold.dk/nyt/Kontra-Paa-rundtur-hos-talentfabrikker>

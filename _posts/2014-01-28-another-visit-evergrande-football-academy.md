@@ -13,4 +13,4 @@ Today I made a visit for the second time at the Evergrande Football Academy abou
 
 At the same time today - an article is written in Financial Times, so please read this very interesting article about the fantastic Guangzhou Evergrande Youth Academy:
 
-<http://www.ft.com/intl/cms/s/2/80286618-83c0-11e3-86c9-00144feab7de.html#slide0>
+<https://www.ft.com/intl/cms/s/2/80286618-83c0-11e3-86c9-00144feab7de.html#slide0>

@@ -14,16 +14,16 @@ The Danish media has really been very interested in our Chinese player, who is t
   
 **Read them all here:**
 
-<http://brondby.com/article.asp?aid=72542&id=145>
+<https://brondby.com/article.asp?aid=72542&id=145>
 
 
 
-<http://www.tipsbladet.dk/nyhed/superliga/broendby-faar-besoeg-af-11-aarig-kineser>
+<https://www.tipsbladet.dk/nyhed/superliga/broendby-faar-besoeg-af-11-aarig-kineser>
 
 
 
-[http://politiken.dk/sport/fodbold/superligaen/ECE1857249/11-aarig-kinesisk-knaegt-er-til-proevetraening-i-broendby/](http://www.politiken.dk/sport/fodbold/superligaen/ECE1857249/11-aarig-kinesisk-knaegt-er-til-proevetraening-i-broendby/)
+[https://politiken.dk/sport/fodbold/superligaen/ECE1857249/11-aarig-kinesisk-knaegt-er-til-proevetraening-i-broendby/](https://www.politiken.dk/sport/fodbold/superligaen/ECE1857249/11-aarig-kinesisk-knaegt-er-til-proevetraening-i-broendby/)
 
 
 
-<http://www.onside.dk/superliga/akademi-chef-kineser-faar-chok-i-broendby>
+<https://www.onside.dk/superliga/akademi-chef-kineser-faar-chok-i-broendby>
